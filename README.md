@@ -30,6 +30,7 @@
 | [0226-invert-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -40,6 +41,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/jlee0810/Leetcode-Collection/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/jlee0810/Leetcode-Collection/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -103,8 +105,13 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jlee0810/Leetcode-Collection/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jlee0810/Leetcode-Collection/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
