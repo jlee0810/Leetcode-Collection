@@ -6,14 +6,10 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        def dfs(node):
-            if not node:
-                return 0
-            
-            rightDepth = dfs(node.right)
-            leftDepth = dfs(node.left)
+        if not root:
+            return 0
+        
+        left_depth = self.maxDepth(root.left)
+        right_depth = self.maxDepth(root.right)
 
-            leftorright = max(rightDepth, leftDepth)
-
-            return leftorright+ 1
-        return dfs(root)
+        return max(left_depth, right_depth) + 1
