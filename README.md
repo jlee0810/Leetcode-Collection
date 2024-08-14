@@ -30,4 +30,16 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
+## Number Theory
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
