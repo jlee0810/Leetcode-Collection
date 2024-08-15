@@ -74,6 +74,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
 ## Stack
@@ -110,6 +111,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
+| [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,16 +165,26 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
