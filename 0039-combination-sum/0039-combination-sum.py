@@ -2,16 +2,17 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         result = []
 
-        def dfs(start, combo):
+        def backtrack(idx, combo):
+            nonlocal result
             if sum(combo) == target:
                 result.append(combo.copy())
                 return
-            if sum(combo) > target:
+            if sum(combo) > target or idx >= len(candidates):
                 return
-            for i in range(start, len(candidates)):
+            for i in range(idx, len(candidates)):
                 combo.append(candidates[i])
-                dfs(i, combo)
+                backtrack(i, combo)
                 combo.pop()
-        
-        dfs(0, [])
+
+        backtrack(0, [])
         return result
