@@ -65,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 ## Stack
@@ -122,4 +123,12 @@
 | [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
