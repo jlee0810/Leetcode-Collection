@@ -11,8 +11,6 @@ class Solution:
             if first == second:
                 continue
             else:
-                diff = first - second
-                heappush(max_heap, diff * -1)
-    
-        return max_heap[0] * -1 if len(max_heap) else 0
+                heappush(max_heap, -abs(first - second))
 
+        return max_heap[0] * -1 if max_heap else 0
