@@ -69,6 +69,7 @@
 | [0039-combination-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/jlee0810/Leetcode-Collection/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jlee0810/Leetcode-Collection/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
@@ -177,6 +178,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
