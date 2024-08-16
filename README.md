@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -132,6 +133,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
