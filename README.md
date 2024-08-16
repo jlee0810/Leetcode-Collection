@@ -181,6 +181,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
@@ -192,6 +193,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/jlee0810/Leetcode-Collection/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -238,4 +242,8 @@
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
