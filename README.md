@@ -70,6 +70,7 @@
 | [0039-combination-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/jlee0810/Leetcode-Collection/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jlee0810/Leetcode-Collection/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
@@ -131,6 +132,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jlee0810/Leetcode-Collection/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0124-binary-tree-maximum-path-sum) |
