@@ -76,6 +76,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/0624-maximum-distance-in-arrays) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 ## Graph
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -192,6 +195,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0890-lemonade-change) |
