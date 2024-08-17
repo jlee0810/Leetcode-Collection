@@ -69,6 +69,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/jlee0810/Leetcode-Collection/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0055-jump-game) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
@@ -226,6 +228,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
