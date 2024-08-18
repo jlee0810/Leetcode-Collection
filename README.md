@@ -108,6 +108,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jlee0810/Leetcode-Collection/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
+| [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 ## Line Sweep
 |  |
 | ------- |
