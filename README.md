@@ -32,6 +32,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -174,6 +175,7 @@
 | [0207-course-schedule](https://github.com/jlee0810/Leetcode-Collection/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
