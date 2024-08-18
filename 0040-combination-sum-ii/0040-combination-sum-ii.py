@@ -11,14 +11,12 @@ class Solution:
                 return
             prev = float('-inf')
             for i in range(idx, len(candidates)):
-                if candidates[i] == prev:
+                if prev == candidates[i]:
                     continue
-                # include this candidate
                 combo.append(candidates[i])
                 backtrack(i + 1, combo)
-                # not include
                 combo.pop()
                 prev = candidates[i]
-
+        
         backtrack(0, [])
         return result
