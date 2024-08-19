@@ -2,6 +2,7 @@ class Solution:
     def minSteps(self, n: int) -> int:
         result = float('inf')
 
+        @lru_cache
         def backtrack(curr_len, curr_memory, curr_count, last_move_copy):
             nonlocal result
             if curr_len == n:
