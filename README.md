@@ -80,6 +80,7 @@
 | [0055-jump-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jlee0810/Leetcode-Collection/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -138,6 +139,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -300,6 +302,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Two Pointers
