@@ -319,6 +319,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
@@ -360,6 +361,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/jlee0810/Leetcode-Collection/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
