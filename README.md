@@ -72,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0045-jump-game-ii) |
@@ -141,6 +142,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
