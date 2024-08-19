@@ -159,6 +159,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/jlee0810/Leetcode-Collection/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/jlee0810/Leetcode-Collection/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/jlee0810/Leetcode-Collection/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/jlee0810/Leetcode-Collection/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
