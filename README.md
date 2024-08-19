@@ -139,6 +139,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
+| [0650-2-keys-keyboard](https://github.com/jlee0810/Leetcode-Collection/tree/master/0650-2-keys-keyboard) |
 | [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -207,6 +208,7 @@
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/jlee0810/Leetcode-Collection/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
