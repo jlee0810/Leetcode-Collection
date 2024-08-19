@@ -77,6 +77,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/jlee0810/Leetcode-Collection/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
@@ -121,12 +122,14 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Math
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0055-jump-game) |
@@ -334,6 +338,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
