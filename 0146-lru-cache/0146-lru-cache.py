@@ -1,49 +1,54 @@
 class Node:
-    def __init__(self, key, value):
-        self.prev = self.next = None
-        self.key, self.value = key, value
+    def __init__(self, key, val):
+        self.key = key
+        self.val = val
+        self.prev = None
+        self.next = None
 
 class LRUCache:
     def __init__(self, capacity: int):
-        self.capacity = capacity
-        self.cache = {}
-        self.lru, self.recent = Node(0, 0), Node(0, 0)
-        self.lru.next = self.recent
+        self.recent = Node(0, 0)
+        self.lru = Node(0, 0)
         self.recent.prev = self.lru
+        self.lru.next = self.recent
+        self.max_capacity = capacity
+        self.curr_capacity = 0
+        self.dict = {}
 
-    def insert(self, node):
+    def _remove(self, node):
+        prev_node = node.prev
+        next_node = node.next
+        prev_node.next = next_node
+        next_node.prev = prev_node
+
+    def _add_to_recent(self, node):
         most_recent = self.recent.prev
+        most_recent.next = node
         node.prev = most_recent
         node.next = self.recent
-        most_recent.next = node
         self.recent.prev = node
-    
-    def remove(self, node):
-        prev, nxt = node.prev, node.next
-        prev.next = nxt
-        nxt.prev = prev
 
     def get(self, key: int) -> int:
-        if key in self.cache:
-            self.remove(self.cache[key])
-            self.insert(self.cache[key])
-            return self.cache[key].value
-
+        if key in self.dict:
+            node = self.dict[key]
+            self._remove(node)
+            self._add_to_recent(node)
+            return node.val
         return -1
-        
-    def put(self, key: int, value: int) -> None:
-        if key in self.cache:
-            self.remove(self.cache[key])
-        self.cache[key] = Node(key, value)
-        self.insert(self.cache[key])
 
-        if len(self.cache.values()) > self.capacity:
-            lru = self.lru.next
-            self.remove(lru)
-            del self.cache[lru.key]
-        
-    
-# Your LRUCache object will be instantiated and called as such:
-# obj = LRUCache(capacity)
-# param_1 = obj.get(key)
-# obj.put(key,value)
+    def put(self, key: int, value: int) -> None:
+        if key in self.dict:
+            node = self.dict[key]
+            node.val = value
+            self._remove(node)
+            self._add_to_recent(node)
+        else:
+            if self.curr_capacity == self.max_capacity:
+                lru_node = self.lru.next
+                self._remove(lru_node)
+                del self.dict[lru_node.key]
+                self.curr_capacity -= 1
+            new_node = Node(key, value)
+            self.dict[key] = new_node
+            self._add_to_recent(new_node)
+            self.curr_capacity += 1
