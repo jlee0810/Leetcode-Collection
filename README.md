@@ -99,6 +99,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/jlee0810/Leetcode-Collection/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0416-partition-equal-subset-sum) |
@@ -160,6 +161,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/jlee0810/Leetcode-Collection/tree/master/0907-koko-eating-bananas) |
@@ -255,6 +257,7 @@
 | ------- |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -352,6 +355,7 @@
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
