@@ -8,20 +8,21 @@ class Solution:
         
         color = {}
 
-        for person in dislike_dict.keys():
-            if person not in color:
-                color[person] = 1
-                stack = [person]
+        def dfs(person, current_color):
+            color[person] = current_color
+            
+            for neighbor in dislike_dict[person]:
+                if neighbor not in color:
+                    if not dfs(neighbor, -current_color):
+                        return False
+                elif color[neighbor] == current_color:
+                    return False
                 
-                while stack:
-                    current = stack.pop()
-                    current_color = color[current]
-                    
-                    for neighbor in dislike_dict[current]:
-                        if neighbor not in color:
-                            color[neighbor] = -current_color
-                            stack.append(neighbor)
-                        elif color[neighbor] == current_color:
-                            return False
+            return True
+
+        for person in range(1, n + 1):
+            if person not in color:
+                if not dfs(person, 1):
+                    return False
 
         return True
