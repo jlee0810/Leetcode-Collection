@@ -6,15 +6,9 @@ class Solution:
             dislike_dict[p1].append(p2)
             dislike_dict[p2].append(p1)
         
-        max_heap = []
-        for key, value in dislike_dict.items():
-            heapq.heappush(max_heap, (-len(value), key))
-
         color = {}
 
-        while max_heap:
-            _, person = heapq.heappop(max_heap)
-
+        for person in dislike_dict.keys():
             if person not in color:
                 color[person] = 1
                 stack = [person]
