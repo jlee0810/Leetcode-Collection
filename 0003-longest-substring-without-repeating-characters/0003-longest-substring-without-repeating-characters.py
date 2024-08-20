@@ -9,6 +9,6 @@ class Solution:
                 sset.remove(s[l])
                 l += 1
             max_length = max(max_length, r - l + 1)
-
             sset.add(s[r])
+
         return max_length
