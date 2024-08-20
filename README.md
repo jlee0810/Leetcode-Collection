@@ -116,6 +116,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -218,6 +219,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Graph
 |  |
@@ -350,6 +352,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Two Pointers
 |  |
@@ -383,6 +386,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Eulerian Circuit
 |  |
 | ------- |
