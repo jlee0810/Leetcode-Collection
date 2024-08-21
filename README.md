@@ -127,6 +127,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
