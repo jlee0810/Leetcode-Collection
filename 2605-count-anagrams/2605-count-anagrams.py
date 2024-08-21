@@ -15,5 +15,8 @@ class Solution:
             
             result *= total_permutations
             result %= MOD
+
         
+        
+
         return result
