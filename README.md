@@ -147,11 +147,13 @@
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/jlee0810/Leetcode-Collection/tree/master/0650-2-keys-keyboard) |
 | [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
+| [0915-generate-random-point-in-a-circle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0915-generate-random-point-in-a-circle) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
+| [0915-generate-random-point-in-a-circle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0915-generate-random-point-in-a-circle) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 ## Number Theory
 |  |
@@ -443,4 +445,12 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0148-sort-list) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0915-generate-random-point-in-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
