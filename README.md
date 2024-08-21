@@ -150,6 +150,7 @@
 | [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
 | [0915-generate-random-point-in-a-circle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0915-generate-random-point-in-a-circle) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
+| [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 ## Geometry
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1660-thousand-separator](https://github.com/jlee0810/Leetcode-Collection/tree/master/1660-thousand-separator) |
+| [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Heap (Priority Queue)
 |  |
@@ -342,6 +344,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jlee0810/Leetcode-Collection/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 ## Counting
 |  |
 | ------- |
@@ -455,4 +458,8 @@
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0915-generate-random-point-in-a-circle) |
+## Game Theory
+|  |
+| ------- |
+| [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 <!---LeetCode Topics End-->
