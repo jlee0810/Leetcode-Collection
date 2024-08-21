@@ -217,6 +217,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/jlee0810/Leetcode-Collection/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/jlee0810/Leetcode-Collection/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -280,6 +281,7 @@
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/jlee0810/Leetcode-Collection/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
