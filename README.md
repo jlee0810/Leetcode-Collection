@@ -313,6 +313,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/jlee0810/Leetcode-Collection/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/jlee0810/Leetcode-Collection/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
