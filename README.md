@@ -138,6 +138,7 @@
 | [3095-maximum-number-of-alloys](https://github.com/jlee0810/Leetcode-Collection/tree/master/3095-maximum-number-of-alloys) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Stack
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Graph
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jlee0810/Leetcode-Collection/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Counting
 |  |
 | ------- |
