@@ -34,7 +34,6 @@ class Solution:
 
         def removeCompleteGarden() -> None:
             nonlocal j, newFlowers
-            assert j < incompleteGardens
             newFlowers += target - flowers[j]
             flowers[j] = flowers[j]
             j += 1
