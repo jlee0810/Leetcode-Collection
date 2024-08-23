@@ -378,6 +378,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/jlee0810/Leetcode-Collection/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -447,6 +448,7 @@
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
+| [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jlee0810/Leetcode-Collection/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0148-sort-list) |
+| [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 ## Doubly-Linked List
 |  |
 | ------- |
