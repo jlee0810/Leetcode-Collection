@@ -9,7 +9,6 @@ class Solution:
                     return False
             return True
 
-
         def backtrack(row):
             if row == n:
                 results.append(cols.copy())
