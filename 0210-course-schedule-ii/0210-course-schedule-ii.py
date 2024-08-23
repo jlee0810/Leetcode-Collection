@@ -17,7 +17,7 @@ class Solution:
         while q:
             course = q.popleft()
             result.append(course)
-
+            
             for dependent in adj_list[course]:
                 pre_req_count[dependent] -= 1
                 if pre_req_count[dependent] == 0:
