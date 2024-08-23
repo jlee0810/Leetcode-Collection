@@ -5,9 +5,6 @@ class Solution:
         initialComplete = sum(flowers[i] >= target for i in range(n))
         incompleteGardens = n - initialComplete
 
-        minIncompleteIndex = -1
-        minFlowerLevel = 0
-
         def maximizeMinFlowers() -> None:
             nonlocal minIncompleteIndex, minFlowerLevel, newFlowers
             if j == 0:
