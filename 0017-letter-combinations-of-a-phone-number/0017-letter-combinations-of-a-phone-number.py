@@ -5,15 +5,17 @@ class Solution:
         result = []
 
         if not digits:
-            return ""
+            return None
 
         def backtrack(idx, combo):
             if idx == len(digits):
                 result.append(combo)
-                return
+                return 
             for c in charNum[digits[idx]]:
                 combo += c
                 backtrack(idx + 1, combo)
                 combo = combo[:-1]
-        backtrack(0, '')
+        
+        backtrack(0, "")
+
         return result
