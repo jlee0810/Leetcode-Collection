@@ -151,6 +151,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
@@ -484,6 +485,7 @@
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 ## Prefix Sum
 |  |
@@ -593,6 +595,7 @@
 | [0983-validate-stack-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/jlee0810/Leetcode-Collection/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1769-get-maximum-in-generated-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1769-get-maximum-in-generated-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Segment Tree
 |  |
 | ------- |
