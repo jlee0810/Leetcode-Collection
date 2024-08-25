@@ -1,17 +1,17 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        candidates.sort()
         result = []
+        candidates.sort()
 
         def backtrack(idx, combo):
             if sum(combo) == target:
                 result.append(combo.copy())
                 return
-            if sum(combo) > target or idx >= len(candidates):
+            if idx >= len(candidates) or sum(combo) > target:
                 return
-            prev = float('-inf')
+            prev = -1
             for i in range(idx, len(candidates)):
-                if prev == candidates[i]:
+                if candidates[i] == prev:
                     continue
                 combo.append(candidates[i])
                 backtrack(i + 1, combo)
