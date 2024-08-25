@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jlee0810/Leetcode-Collection/tree/master/0592-fraction-addition-and-subtraction) |
@@ -359,6 +360,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
@@ -372,6 +374,7 @@
 | [0014-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/jlee0810/Leetcode-Collection/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/jlee0810/Leetcode-Collection/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
@@ -613,6 +616,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jlee0810/Leetcode-Collection/tree/master/0592-fraction-addition-and-subtraction) |
 | [0983-validate-stack-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/jlee0810/Leetcode-Collection/tree/master/1027-sum-of-even-numbers-after-queries) |
