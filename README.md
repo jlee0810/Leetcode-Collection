@@ -265,6 +265,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/jlee0810/Leetcode-Collection/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
@@ -313,6 +314,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Graph
@@ -397,6 +399,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jlee0810/Leetcode-Collection/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/jlee0810/Leetcode-Collection/tree/master/1660-thousand-separator) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
@@ -615,6 +618,7 @@
 |  |
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/jlee0810/Leetcode-Collection/tree/master/0986-largest-time-for-given-digits) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 ## Simulation
 |  |
 | ------- |
