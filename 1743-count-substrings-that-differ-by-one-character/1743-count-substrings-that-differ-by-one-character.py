@@ -3,7 +3,6 @@ class Solution:
         if len(s) > len(t):
             return -1
 
-        cnt_s = Counter(s)
         result = 0
         
         for length in range(1, len(s) + 1):
