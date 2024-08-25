@@ -1,24 +1,25 @@
 class Solution:
     def countSubstrings(self, s: str, t: str) -> int:
+        if len(s) > len(t):
+            return -1
+
+        cnt_s = Counter(s)
         result = 0
         
-        def countDifferentByOne(s: str, t: str) -> int:
-            count = 0
-            m, n = len(s), len(t)
-            for i in range(m):
-                for j in range(n):
-                    mismatches = 0
-                    k = 0
-                    while i + k < m and j + k < n:
-                        if s[i + k] != t[j + k]:
-                            mismatches += 1
-                        if mismatches == 1:
-                            count += 1
-                        elif mismatches > 1:
+        for length in range(1, len(s) + 1):
+            for i in range(len(s) - length + 1):
+                substr_s = s[i:i + length]
+                for j in range(len(t) - length + 1):
+                    substr_t = t[j:j + length]
+                    differ = 0
+                    
+                    for k in range(length):
+                        if substr_s[k] != substr_t[k]:
+                            differ += 1
+                        if differ > 1:
                             break
-                        k += 1
-            return count
-        
-        result = countDifferentByOne(s, t)
+                    
+                    if differ == 1:
+                        result += 1
         
         return result
