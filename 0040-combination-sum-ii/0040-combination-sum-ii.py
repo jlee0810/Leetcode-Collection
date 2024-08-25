@@ -9,14 +9,12 @@ class Solution:
                 return
             if idx >= len(candidates) or sum(combo) > target:
                 return
-            prev = -1
-            for i in range(idx, len(candidates)):
-                if candidates[i] == prev:
-                    continue
-                combo.append(candidates[i])
-                backtrack(i + 1, combo)
-                combo.pop()
-                prev = candidates[i]
-        
+            combo.append(candidates[idx])
+            backtrack(idx + 1, combo)
+            combo.pop()
+            while idx + 1 < len(candidates) and candidates[idx + 1] == candidates[idx]:
+                idx += 1
+            backtrack(idx + 1, combo)
+    
         backtrack(0, [])
         return result
