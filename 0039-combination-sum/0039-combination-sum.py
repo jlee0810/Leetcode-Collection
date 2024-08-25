@@ -6,12 +6,12 @@ class Solution:
             if sum(combo) == target:
                 result.append(combo.copy())
                 return
-            if sum(combo) > target or idx == len(candidates):
+            if idx > len(candidates) or sum(combo) > target:
                 return
             for i in range(idx, len(candidates)):
                 combo.append(candidates[i])
                 backtrack(i, combo)
                 combo.pop()
-        
+
         backtrack(0, [])
         return result
