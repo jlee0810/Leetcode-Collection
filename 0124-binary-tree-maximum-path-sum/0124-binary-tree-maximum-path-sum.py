@@ -10,8 +10,10 @@ class Solution:
 
         def dfs(node):
             nonlocal max_path
+ 
             if not node:
                 return 0
+            
             left = dfs(node.left)
             right = dfs(node.right)
 
