@@ -19,6 +19,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0285-inorder-successor-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/jlee0810/Leetcode-Collection/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -43,6 +44,7 @@
 | [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0922-possible-bipartition) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/jlee0810/Leetcode-Collection/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -182,6 +184,7 @@
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0983-validate-stack-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/0983-validate-stack-sequences) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
