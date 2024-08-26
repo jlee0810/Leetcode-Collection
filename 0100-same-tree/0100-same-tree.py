@@ -10,7 +10,7 @@ class Solution:
             return True
         if not p or not q:
             return False
-            
+        
         same_left = self.isSameTree(p.left, q.left)
         same_right = self.isSameTree(p.right, q.right)
 
