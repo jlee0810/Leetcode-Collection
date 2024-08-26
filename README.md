@@ -19,6 +19,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0285-inorder-successor-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/jlee0810/Leetcode-Collection/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -44,6 +45,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -94,6 +96,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0285-inorder-successor-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/jlee0810/Leetcode-Collection/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
@@ -653,4 +656,12 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0867-new-21-game) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
