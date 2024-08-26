@@ -129,6 +129,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jlee0810/Leetcode-Collection/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
+| [0376-wiggle-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
@@ -309,6 +310,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jlee0810/Leetcode-Collection/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
+| [0376-wiggle-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
@@ -460,6 +462,7 @@
 | [0134-gas-station](https://github.com/jlee0810/Leetcode-Collection/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
+| [0376-wiggle-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/0624-maximum-distance-in-arrays) |
