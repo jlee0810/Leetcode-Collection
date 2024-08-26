@@ -13,7 +13,7 @@ class Solution:
 
         q = deque()
         q.append(root)
-        
+
         while q:
             curr_level = []
             for _ in range(len(q)):
