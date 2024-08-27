@@ -176,6 +176,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -288,6 +289,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
@@ -501,6 +503,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 ## Design
