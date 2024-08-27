@@ -329,6 +329,7 @@
 | [0867-new-21-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0867-new-21-game) |
 | [1081-video-stitching](https://github.com/jlee0810/Leetcode-Collection/tree/master/1081-video-stitching) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1250-longest-common-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/1250-longest-common-subsequence) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -413,6 +414,7 @@
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1250-longest-common-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/1250-longest-common-subsequence) |
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jlee0810/Leetcode-Collection/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/jlee0810/Leetcode-Collection/tree/master/1660-thousand-separator) |
