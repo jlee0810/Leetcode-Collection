@@ -75,6 +75,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/jlee0810/Leetcode-Collection/tree/master/0833-bus-routes) |
 | [0922-possible-bipartition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0922-possible-bipartition) |
+| [1142-minimum-knight-moves](https://github.com/jlee0810/Leetcode-Collection/tree/master/1142-minimum-knight-moves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/jlee0810/Leetcode-Collection/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jlee0810/Leetcode-Collection/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
