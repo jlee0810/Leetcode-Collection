@@ -154,6 +154,7 @@
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/jlee0810/Leetcode-Collection/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jlee0810/Leetcode-Collection/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -344,6 +345,7 @@
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0922-possible-bipartition) |
+| [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -431,6 +433,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
+| [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
@@ -564,6 +567,7 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
