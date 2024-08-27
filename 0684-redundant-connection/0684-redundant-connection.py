@@ -7,7 +7,7 @@ class Solution:
             while parent[node] != node:
                 node = parent[node]
             return node
-
+            
         def union(node1, node2):
             parent1 = find(node1)
             parent2 = find(node2)
