@@ -3,7 +3,6 @@ class Solution:
         if n == 1:
             return 1
         dp = [0 for _ in range(n)]
-
         dp[0] = 1
         dp[1] = 2
 
