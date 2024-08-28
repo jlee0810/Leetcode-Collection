@@ -53,6 +53,7 @@
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -81,6 +82,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/jlee0810/Leetcode-Collection/tree/master/0833-bus-routes) |
@@ -382,6 +384,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0922-possible-bipartition) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
@@ -480,6 +483,7 @@
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
@@ -633,6 +637,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
 ## Minimum Spanning Tree
