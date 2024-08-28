@@ -28,13 +28,14 @@ class Solution:
 
         l, r = 1, n
         max_order = 0
-        
+
         while l <= r:
             mid = (l + r) // 2
+            
             if can_form_plus_sign(mid):
-                max_order = mid
                 l = mid + 1
+                max_order = mid
             else:
                 r = mid - 1
-        
+
         return max_order
