@@ -254,6 +254,7 @@
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Geometry
 |  |
 | ------- |
