@@ -255,6 +255,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/jlee0810/Leetcode-Collection/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Geometry
@@ -604,6 +605,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -744,4 +746,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
