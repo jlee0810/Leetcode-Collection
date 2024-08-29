@@ -1,24 +1,26 @@
+from collections import defaultdict
+
 class Solution:
     def betterCompression(self, compressed: str) -> str:
         count_dic = defaultdict(int)
 
         curr_count = 0
-        curr_char = None
-        for i in range(len(compressed)):
-            if compressed[i].isalpha():
-                if curr_char is not None:
+        curr_char = ''
+        
+        for ch in compressed:
+            if ch.isalpha():
+                if curr_char:
                     count_dic[curr_char] += curr_count
+                curr_char = ch
                 curr_count = 0
-                curr_char = compressed[i]
-            elif compressed[i].isnumeric():
-                curr_count = curr_count * 10 + int(compressed[i])
-        count_dic[curr_char] += curr_count
+            else:  # ch.isnumeric()
+                curr_count = curr_count * 10 + int(ch)
+        
+        # Add the last character and its count
+        if curr_char:
+            count_dic[curr_char] += curr_count
 
-        lst = list(count_dic.keys())
-        lst.sort()
-
-        result = []
-        for c in lst:
-            result.append(c)
-            result.append(str(count_dic[c]))
-        return "".join(result)
+        # Build the sorted result
+        result = ''.join(f'{char}{count_dic[char]}' for char in sorted(count_dic))
+        
+        return result
