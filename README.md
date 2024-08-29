@@ -257,6 +257,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/jlee0810/Leetcode-Collection/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/jlee0810/Leetcode-Collection/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
