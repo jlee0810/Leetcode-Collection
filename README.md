@@ -236,6 +236,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/jlee0810/Leetcode-Collection/tree/master/0735-asteroid-collision) |
@@ -477,6 +478,7 @@
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
 | [0320-generalized-abbreviation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0320-generalized-abbreviation) |
+| [0394-decode-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
@@ -708,6 +710,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
