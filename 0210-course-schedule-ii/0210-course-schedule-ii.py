@@ -1,26 +1,33 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        result = []
-        pre_req_count = [0 for _ in range(numCourses)]
         adj_list = defaultdict(list)
+        in_nodes = [0 for _ in range(numCourses)]
 
         for course, prereq in prerequisites:
             adj_list[prereq].append(course)
-            pre_req_count[course] += 1
+            in_nodes[course] += 1
+
+        ordering = []
+        took = set()
 
         q = deque()
-
-        for idx, count in enumerate(pre_req_count):
-            if count == 0:
-                q.append(idx)
+        for i in range(numCourses):
+            if in_nodes[i] == 0:
+                q.append(i)
         
         while q:
-            course = q.popleft()
-            result.append(course)
-            
-            for dependent in adj_list[course]:
-                pre_req_count[dependent] -= 1
-                if pre_req_count[dependent] == 0:
-                    q.append(dependent)
-
-        return result if sum(pre_req_count) == 0 else []
+            curr_course = q.popleft()
+            ordering.append(curr_course)
+            took.add(curr_course)
+            for course in adj_list[curr_course]:
+                if course in took:
+                    continue
+                in_nodes[course] -= 1
+                if in_nodes[course] == 0:
+                    q.append(course)
+        
+        for required in in_nodes:
+            if required > 0:
+                return []
+        
+        return ordering
