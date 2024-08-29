@@ -146,6 +146,7 @@
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jlee0810/Leetcode-Collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/jlee0810/Leetcode-Collection/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -369,6 +370,7 @@
 | [0055-jump-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jlee0810/Leetcode-Collection/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jlee0810/Leetcode-Collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0152-maximum-product-subarray) |
