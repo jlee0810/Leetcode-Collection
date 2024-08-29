@@ -10,8 +10,9 @@ class Solution:
                 
         result = []
 
-        for _ in range(k):
-            curr_point = heappop(min_heap)
-            result.append([curr_point[1], curr_point[2]])
-        
+        while k > 0:
+            distance, curr_x, curr_y = heappop(min_heap)
+            result.append([curr_x, curr_y])
+            k -= 1
+
         return result
