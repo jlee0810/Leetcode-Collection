@@ -3,8 +3,10 @@ class Solution:
         max_heap = []
         for num in nums:
             heappush(max_heap, -num)
-        
-        result = []
-        for _ in range(k):
-            result.append(heappop(max_heap) * - 1)
-        return result[-1]
+
+        kth = None
+        while k > 0:
+            kth = heappop(max_heap) * -1
+            k -= 1
+        return kth
+            
