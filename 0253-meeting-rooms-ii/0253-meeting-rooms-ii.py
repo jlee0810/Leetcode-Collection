@@ -1,8 +1,8 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
-        min_heap = []
         intervals.sort()
-        room = 0 
+        rooms = 0
+        min_heap = []
 
         for interval in intervals:
             if min_heap and min_heap[0] <= interval[0]:
@@ -10,6 +10,6 @@ class Solution:
                 heappush(min_heap, interval[1])
             else:
                 heappush(min_heap, interval[1])
-                room = max(room, len(min_heap))
+                room = max(rooms, len(min_heap))
         
         return room
