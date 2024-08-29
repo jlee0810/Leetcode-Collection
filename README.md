@@ -59,6 +59,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/jlee0810/Leetcode-Collection/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1177-tree-diameter](https://github.com/jlee0810/Leetcode-Collection/tree/master/1177-tree-diameter) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/jlee0810/Leetcode-Collection/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -318,6 +319,7 @@
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/jlee0810/Leetcode-Collection/tree/master/0833-bus-routes) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/jlee0810/Leetcode-Collection/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -394,6 +396,7 @@
 | [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jlee0810/Leetcode-Collection/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/jlee0810/Leetcode-Collection/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1177-tree-diameter](https://github.com/jlee0810/Leetcode-Collection/tree/master/1177-tree-diameter) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
@@ -413,6 +416,7 @@
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/jlee0810/Leetcode-Collection/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
 ## Backtracking
