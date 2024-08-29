@@ -354,6 +354,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
+| [3474-better-compression-of-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/3474-better-compression-of-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -509,6 +510,7 @@
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
+| [3474-better-compression-of-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/3474-better-compression-of-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -549,6 +551,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
+| [3474-better-compression-of-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/3474-better-compression-of-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -591,6 +594,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
+| [3474-better-compression-of-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/3474-better-compression-of-string) |
 ## Design
 |  |
 | ------- |
