@@ -46,8 +46,8 @@ class Solution:
             d, u = heapq.heappop(min_heap)
             if u == destination:
                 return d
-            # if d > min_distance[u]:
-            #     continue
+            if d > min_distance[u]:
+                continue
             for v, w in graph[u]:
                 if d + w < min_distance[v]:
                     min_distance[v] = d + w
