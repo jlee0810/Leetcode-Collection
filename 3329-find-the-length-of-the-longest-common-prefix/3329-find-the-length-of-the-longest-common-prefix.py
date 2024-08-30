@@ -16,7 +16,8 @@ class Trie:
         node.is_end = True
 
 class Solution:
-    def traverse_trie(self, node, curr_word, level):
+    def traverse_trie(self, node, curr_word):
+        level = 0
         for ch in curr_word:
             if ch not in node.children:
                 return level
@@ -31,7 +32,7 @@ class Solution:
 
         res = 0
         for num in arr2:
-            level = self.traverse_trie(trie.root, str(num), 0)
+            level = self.traverse_trie(trie.root, str(num))
             res = max(res, level)
 
         return res
