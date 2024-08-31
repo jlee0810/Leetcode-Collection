@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0040-combination-sum-ii) |
@@ -674,6 +675,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0148-sort-list) |
