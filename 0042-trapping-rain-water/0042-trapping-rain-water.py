@@ -12,6 +12,5 @@ class Solution:
             else:
                 r -= 1
                 max_r = max(max_r, height[r])
-                water += max_r - height[r]
-        
+                water += max_r - height[r] 
         return water
