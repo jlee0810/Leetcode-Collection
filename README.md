@@ -293,6 +293,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
+| [2610-closest-prime-numbers-in-range](https://github.com/jlee0810/Leetcode-Collection/tree/master/2610-closest-prime-numbers-in-range) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Geometry
 |  |
@@ -305,6 +306,7 @@
 | ------- |
 | [0888-mirror-reflection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0888-mirror-reflection) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2610-closest-prime-numbers-in-range](https://github.com/jlee0810/Leetcode-Collection/tree/master/2610-closest-prime-numbers-in-range) |
 ## Binary Search Tree
 |  |
 | ------- |
