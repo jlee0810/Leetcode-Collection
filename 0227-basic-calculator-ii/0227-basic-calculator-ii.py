@@ -22,6 +22,7 @@ class Solution:
                 
                 prev_operator = char
                 num = 0
+                
         if prev_operator == '+':
             stack.append(num)
         if prev_operator == '-':
@@ -30,5 +31,5 @@ class Solution:
             stack.append(stack.pop() * num)
         if prev_operator == '/':
             stack.append(int(stack.pop() / num))
-            
+
         return sum(stack)
