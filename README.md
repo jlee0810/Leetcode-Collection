@@ -196,6 +196,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/jlee0810/Leetcode-Collection/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jlee0810/Leetcode-Collection/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/jlee0810/Leetcode-Collection/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1081-video-stitching](https://github.com/jlee0810/Leetcode-Collection/tree/master/1081-video-stitching) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/jlee0810/Leetcode-Collection/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
@@ -323,6 +324,7 @@
 | [0792-binary-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/jlee0810/Leetcode-Collection/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/jlee0810/Leetcode-Collection/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
