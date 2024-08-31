@@ -8,25 +8,23 @@ class Solution:
             for stop in route:
                 stop_to_bus[stop].add(i)
 
-        queue = deque([(source, 0)])
+        q = deque([(source, 0)])
         visited_stops = set([source])
-        visited_buses = set()
+        visited_bus = set()
 
-        while queue:
-            stop, buses = queue.popleft()
-
+        while q:
+            stop, bus_count = q.popleft()
+            
             if stop == target:
-                return buses
-
+                return bus_count
+            
             for bus in stop_to_bus[stop]:
-                if bus not in visited_buses:
-                    visited_buses.add(bus)
+                if bus not in visited_bus:
+                    visited_bus.add(bus)
                     for next_stop in routes[bus]:
                         if next_stop not in visited_stops:
                             visited_stops.add(next_stop)
-                            queue.append((next_stop, buses + 1))
+                            q.append((next_stop, bus_count + 1))
 
         return -1
-
-
-        
+ 
