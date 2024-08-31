@@ -148,6 +148,7 @@
 | [0057-insert-interval](https://github.com/jlee0810/Leetcode-Collection/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jlee0810/Leetcode-Collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -460,6 +461,7 @@
 | [0051-n-queens](https://github.com/jlee0810/Leetcode-Collection/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/jlee0810/Leetcode-Collection/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
@@ -486,6 +488,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/jlee0810/Leetcode-Collection/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jlee0810/Leetcode-Collection/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
@@ -633,6 +636,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0286-walls-and-gates) |
