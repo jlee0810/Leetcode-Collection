@@ -142,6 +142,7 @@
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jlee0810/Leetcode-Collection/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jlee0810/Leetcode-Collection/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0055-jump-game) |
@@ -342,6 +343,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jlee0810/Leetcode-Collection/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/jlee0810/Leetcode-Collection/tree/master/0138-copy-list-with-random-pointer) |
@@ -503,6 +505,7 @@
 | [0012-integer-to-roman](https://github.com/jlee0810/Leetcode-Collection/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jlee0810/Leetcode-Collection/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
@@ -568,6 +571,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
