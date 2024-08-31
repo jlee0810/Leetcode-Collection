@@ -14,6 +14,7 @@ class Solution:
                 return []
             if not node.left and not node.right:
                 return [1]
+            
             left = dfs(node.left)
             right = dfs(node.right)
 
@@ -24,7 +25,6 @@ class Solution:
             leaves = left + right
             for i in range(len(leaves)):
                 leaves[i] += 1
-            
             return leaves
 
         dfs(root)
