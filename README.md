@@ -227,6 +227,7 @@
 | [1769-get-maximum-in-generated-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1769-get-maximum-in-generated-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1829-maximum-units-on-a-truck](https://github.com/jlee0810/Leetcode-Collection/tree/master/1829-maximum-units-on-a-truck) |
+| [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jlee0810/Leetcode-Collection/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -591,6 +592,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
+| [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
@@ -651,6 +653,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1829-maximum-units-on-a-truck](https://github.com/jlee0810/Leetcode-Collection/tree/master/1829-maximum-units-on-a-truck) |
+| [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jlee0810/Leetcode-Collection/tree/master/2026-merge-triplets-to-form-target-triplet) |
