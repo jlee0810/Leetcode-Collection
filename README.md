@@ -234,6 +234,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -701,6 +702,7 @@
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 ## Two Pointers
 |  |
@@ -863,6 +865,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/jlee0810/Leetcode-Collection/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
 | [1769-get-maximum-in-generated-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1769-get-maximum-in-generated-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Segment Tree
