@@ -243,6 +243,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -759,6 +760,7 @@
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 ## Line Sweep
