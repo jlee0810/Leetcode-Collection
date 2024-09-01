@@ -271,6 +271,7 @@
 | [0735-asteroid-collision](https://github.com/jlee0810/Leetcode-Collection/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jlee0810/Leetcode-Collection/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0886-score-of-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/jlee0810/Leetcode-Collection/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/0983-validate-stack-sequences) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -559,6 +560,7 @@
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [0834-ambiguous-coordinates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0834-ambiguous-coordinates) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
+| [0886-score-of-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0886-score-of-parentheses) |
 | [0986-largest-time-for-given-digits](https://github.com/jlee0810/Leetcode-Collection/tree/master/0986-largest-time-for-given-digits) |
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
