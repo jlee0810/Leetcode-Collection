@@ -225,6 +225,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/jlee0810/Leetcode-Collection/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jlee0810/Leetcode-Collection/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
@@ -752,6 +753,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/0560-subarray-sum-equals-k) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
@@ -828,6 +830,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0867-new-21-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0867-new-21-game) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/jlee0810/Leetcode-Collection/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jlee0810/Leetcode-Collection/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
