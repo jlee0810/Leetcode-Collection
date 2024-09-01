@@ -183,6 +183,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [0554-brick-wall](https://github.com/jlee0810/Leetcode-Collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/0560-subarray-sum-equals-k) |
@@ -333,6 +334,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0792-binary-search) |
@@ -599,6 +601,7 @@
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
+| [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
@@ -707,6 +710,7 @@
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
