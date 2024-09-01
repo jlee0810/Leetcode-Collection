@@ -1,24 +1,25 @@
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
-        num_ones = nums.count(1)
-        orig_len = len(nums)
-        nums = nums + nums
-        
-        if num_ones == 0:
-            return 0
+        circular = nums + nums
 
-        window_count = 0
+        num_ones = sum(nums)
+        l, r = 0, 0
+
         min_swap = float('inf')
 
-        l = 0
-  
-        for r in range(orig_len + num_ones - 1):
-            if nums[r] == 1:
-                window_count += 1
-            if r >= num_ones:
-                if nums[l] == 1:
-                    window_count -= 1
+        window_ones = 0
+        
+        while r < len(circular):
+            window_ones += circular[r]
+            
+            if r - l + 1 == num_ones:
+                current_swap = num_ones - window_ones
+                min_swap = min(min_swap, current_swap)
+                window_ones -= circular[l]
                 l += 1
-            min_swap = min(min_swap, num_ones - window_count)
 
+            r += 1
+
+        if min_swap == float('inf'):
+            return 0
         return min_swap
