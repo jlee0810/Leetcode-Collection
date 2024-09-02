@@ -1,27 +1,22 @@
 class Solution:
     def makesquare(self, matchsticks: List[int]) -> bool:
-        if not matchsticks:
+        sum_sticks = sum(matchsticks)
+        if sum_sticks % 4 != 0:
             return False
-    
-        length = len(matchsticks)
-        perimeter = sum(matchsticks)
-        possible_side =  perimeter // 4
-
-        if perimeter % 4 != 0:
-            return False
+        
+        sides = [0 for _ in range(4)]
 
         matchsticks.sort(reverse = True)
-        sums = [0 for _ in range(4)]
-    
-        def dfs(index):
-            if index == length:
-                return sums[0] == sums[1] == sums[2] == possible_side
-    
+
+        def backtrack(idx):
+            if idx == len(matchsticks):
+                return sides[0] == sides[1] == sides[2] == sum_sticks // 4
+            
             for i in range(4):
-                if sums[i] + matchsticks[index] <= possible_side:
-                    sums[i] += matchsticks[index]
-                    if dfs(index + 1):
+                if sides[i] + matchsticks[idx] <= sum_sticks // 4:
+                    sides[i] += matchsticks[idx]
+                    if backtrack(idx + 1):
                         return True
-                    sums[i] -= matchsticks[index]
-            return False        
-        return dfs(0) 
+                    sides[i] -= matchsticks[idx]
+            return False
+        return backtrack(0)
