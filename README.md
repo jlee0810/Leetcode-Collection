@@ -392,6 +392,7 @@
 | [0217-contains-duplicate](https://github.com/jlee0810/Leetcode-Collection/tree/master/0217-contains-duplicate) |
 | [0305-number-of-islands-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0554-brick-wall](https://github.com/jlee0810/Leetcode-Collection/tree/master/0554-brick-wall) |
@@ -571,6 +572,7 @@
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
 | [0320-generalized-abbreviation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0320-generalized-abbreviation) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0394-decode-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
@@ -613,6 +615,7 @@
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -640,6 +643,7 @@
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
@@ -670,6 +674,7 @@
 | [0134-gas-station](https://github.com/jlee0810/Leetcode-Collection/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0376-wiggle-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
@@ -695,6 +700,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
