@@ -256,6 +256,7 @@
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3095-maximum-number-of-alloys](https://github.com/jlee0810/Leetcode-Collection/tree/master/3095-maximum-number-of-alloys) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
@@ -412,6 +413,7 @@
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -845,6 +847,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
