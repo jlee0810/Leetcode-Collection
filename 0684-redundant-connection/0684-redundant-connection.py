@@ -22,8 +22,9 @@ class Solution:
                     parent[parent1] = parent[parent2]
                     rank[parent2] += rank[parent1]
                 return False
-
+        
         for n1, n2 in edges:
             if union(n1, n2):
                 return [n1, n2]
+
         return []
