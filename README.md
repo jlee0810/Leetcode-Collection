@@ -252,6 +252,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -288,6 +289,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Math
 |  |
 | ------- |
@@ -513,6 +516,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jlee0810/Leetcode-Collection/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Backtracking
 |  |
 | ------- |
