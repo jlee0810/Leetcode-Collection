@@ -15,4 +15,5 @@ class Solution:
             if left_valid and right_valid and min_val < node.val < max_val:
                 return True
             return False
+            
         return dfs(root, float('-inf'), float('inf'))
