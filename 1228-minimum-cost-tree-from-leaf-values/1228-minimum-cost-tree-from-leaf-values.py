@@ -4,12 +4,14 @@ class Solution:
         def dp(i, j):
             if i == j:
                 return 0
-            min_cost = float('inf')
+
+            min_sum = float('inf')
             for k in range(i, j):
                 left_max = max(arr[i : k + 1])
                 right_max = max(arr[k + 1 : j + 1])
-                cost = dp(i, k) + dp(k + 1, j) + left_max * right_max
-                min_cost = min(min_cost, cost)
-            return min_cost
+                curr_sum = dp(i, k) + dp(k + 1, j) + left_max * right_max
+                min_sum = min(min_sum, curr_sum)
+
+            return min_sum
         
         return dp(0, len(arr) - 1)
