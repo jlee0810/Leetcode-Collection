@@ -1,20 +1,22 @@
-from sortedcontainers import SortedDict
 class MyCalendarThree:
+
     def __init__(self):
-        self.times = defaultdict(int)
-
-    def book(self, start: int, end: int) -> int:
-        self.times[start] += 1
-        self.times[end] -= 1
-
-        ans = 0
-        curr_inter = 0
-
-        for t in sorted(self.times):
-            curr_inter += self.times[t]
-            ans = max(ans, curr_inter)
+        self.time = defaultdict(int)
         
-        return ans
+
+    def book(self, startTime: int, endTime: int) -> int:
+        intersect = 0
+        self.time[startTime] += 1
+        self.time[endTime] -= 1
+
+        max_intersect = 0
+        intersect = 0
+
+        for time in sorted(self.time):
+            intersect += self.time[time]
+            max_intersect = max(max_intersect, intersect)
+        
+        return max_intersect
 
 
 # Your MyCalendarThree object will be instantiated and called as such:
