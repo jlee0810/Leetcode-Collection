@@ -249,6 +249,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -426,6 +427,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
@@ -647,6 +649,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2803-modify-graph-edge-weights](https://github.com/jlee0810/Leetcode-Collection/tree/master/2803-modify-graph-edge-weights) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
@@ -674,6 +677,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/jlee0810/Leetcode-Collection/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
