@@ -11,6 +11,7 @@ class Solution:
                 return True
             if not p or not q:
                 return False
+
             left_same = isSameTree(p.left, q.left)
             right_same = isSameTree(p.right, q.right)
 
@@ -18,12 +19,12 @@ class Solution:
                 return True
             else:
                 return False
-        
+
         if not root and not subRoot:
             return True
         if not root or not subRoot:
             return False
-        
+
         left_sub = self.isSubtree(root.left, subRoot)
         right_sub = self.isSubtree(root.right, subRoot)
 
