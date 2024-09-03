@@ -755,6 +755,7 @@
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
