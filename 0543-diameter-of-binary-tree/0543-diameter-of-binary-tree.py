@@ -8,19 +8,17 @@ class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         max_diam = 0
 
-        def depth(node):
+        def dfs(node):
             nonlocal max_diam
-
             if not node:
                 return 0
-            left_depth = depth(node.left)
-            right_depth = depth(node.right)
+            left = dfs(node.left)
+            right = dfs(node.right)
 
-            max_diam = max(max_diam, left_depth + right_depth)
+            max_diam = max(max_diam, left + right)
 
-            return max(left_depth, right_depth) + 1
+            return max(left, right) + 1
         
-        depth(root)
-        
+        dfs(root)
+
         return max_diam
-            
