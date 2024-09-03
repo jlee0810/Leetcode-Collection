@@ -176,6 +176,7 @@
 | [0238-product-of-array-except-self](https://github.com/jlee0810/Leetcode-Collection/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/jlee0810/Leetcode-Collection/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [0256-paint-house](https://github.com/jlee0810/Leetcode-Collection/tree/master/0256-paint-house) |
 | [0286-walls-and-gates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
@@ -460,6 +461,7 @@
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jlee0810/Leetcode-Collection/tree/master/0198-house-robber) |
+| [0256-paint-house](https://github.com/jlee0810/Leetcode-Collection/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jlee0810/Leetcode-Collection/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
