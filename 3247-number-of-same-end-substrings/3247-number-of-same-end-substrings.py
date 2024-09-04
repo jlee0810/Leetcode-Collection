@@ -11,11 +11,11 @@ class Solution:
             return sum(count * (count + 1) // 2 for count in counter.values())
 
         results = []
-        
+
         for left, right in queries:
             right_counter = prefix_counters[right + 1]
             left_counter = prefix_counters[left]
-
+            
             substring_counter = right_counter - left_counter
             contribution = calculate_contribution(substring_counter)
             results.append(contribution)
