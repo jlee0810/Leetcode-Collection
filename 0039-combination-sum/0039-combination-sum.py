@@ -6,7 +6,7 @@ class Solution:
             if sum(combo) == target:
                 result.append(combo.copy())
                 return
-            if idx > len(candidates) or sum(combo) > target:
+            if sum(combo) > target:
                 return
             for i in range(idx, len(candidates)):
                 combo.append(candidates[i])
