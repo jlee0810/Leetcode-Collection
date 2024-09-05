@@ -275,6 +275,7 @@
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3095-maximum-number-of-alloys](https://github.com/jlee0810/Leetcode-Collection/tree/master/3095-maximum-number-of-alloys) |
 | [3113-beautiful-towers-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3113-beautiful-towers-ii) |
+| [3114-beautiful-towers-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3114-beautiful-towers-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3247-number-of-same-end-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/3247-number-of-same-end-substrings) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
@@ -306,6 +307,7 @@
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [3113-beautiful-towers-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3113-beautiful-towers-ii) |
+| [3114-beautiful-towers-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [3113-beautiful-towers-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3113-beautiful-towers-ii) |
+| [3114-beautiful-towers-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3114-beautiful-towers-i) |
 ## Math
 |  |
 | ------- |
