@@ -10,5 +10,4 @@ class Solution:
                 l = mid + 1
             if nums[mid] > target:
                 r = mid - 1
-            
         return -1
