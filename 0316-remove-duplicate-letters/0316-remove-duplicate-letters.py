@@ -8,7 +8,7 @@ class Solution:
             if c not in seen:
                 while stack and c < stack[-1] and i < last_occur[stack[-1]]:
                     seen.remove(stack.pop())
-                stack.append(c)
+                stack.append(c)        
                 seen.add(c)
-
+        
         return ''.join(stack)
