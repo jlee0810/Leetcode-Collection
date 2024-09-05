@@ -180,6 +180,7 @@
 | [0252-meeting-rooms](https://github.com/jlee0810/Leetcode-Collection/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/jlee0810/Leetcode-Collection/tree/master/0256-paint-house) |
+| [0274-h-index](https://github.com/jlee0810/Leetcode-Collection/tree/master/0274-h-index) |
 | [0286-walls-and-gates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
@@ -688,6 +689,7 @@
 | [0217-contains-duplicate](https://github.com/jlee0810/Leetcode-Collection/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/jlee0810/Leetcode-Collection/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
+| [0274-h-index](https://github.com/jlee0810/Leetcode-Collection/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
@@ -1023,4 +1025,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jlee0810/Leetcode-Collection/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
