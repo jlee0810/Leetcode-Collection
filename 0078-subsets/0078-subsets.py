@@ -10,7 +10,7 @@ class Solution:
             backtrack(idx + 1, ss)
             ss.pop()
             backtrack(idx + 1, ss)
-
+            
         backtrack(0, [])
 
         return result
