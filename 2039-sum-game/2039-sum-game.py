@@ -15,8 +15,8 @@ class Solution:
                 else:
                     diff -= int(c)
         
-        # if diff > 0 and cnt > 0:
-        #     return True
+        if diff > 0 and cnt > 0:
+            return True
         
         diff = abs(diff)
         cnt = abs(cnt)
