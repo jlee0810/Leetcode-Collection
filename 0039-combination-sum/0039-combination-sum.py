@@ -5,7 +5,7 @@ class Solution:
         def backtrack(idx, combo):
             if sum(combo) == target:
                 result.append(combo.copy())
-                return
+                return 
             if sum(combo) > target:
                 return
             for i in range(idx, len(candidates)):
@@ -14,4 +14,5 @@ class Solution:
                 combo.pop()
 
         backtrack(0, [])
+
         return result
