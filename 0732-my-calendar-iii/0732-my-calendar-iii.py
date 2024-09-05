@@ -1,19 +1,16 @@
 class MyCalendarThree:
-
     def __init__(self):
-        self.time = defaultdict(int)
+        self.times = defaultdict(int)
         
-
     def book(self, startTime: int, endTime: int) -> int:
-        intersect = 0
-        self.time[startTime] += 1
-        self.time[endTime] -= 1
+        self.times[startTime] += 1
+        self.times[endTime] -= 1
 
         max_intersect = 0
         intersect = 0
 
-        for time in sorted(self.time):
-            intersect += self.time[time]
+        for t in sorted(self.times):
+            intersect += self.times[t]
             max_intersect = max(max_intersect, intersect)
         
         return max_intersect
