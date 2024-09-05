@@ -8,10 +8,10 @@ class Solution:
             count = 0
 
             for pile in piles:
-                count += math.ceil(pile / mid)
+                count += math.ceil(pile/mid)
             if count <= h:
                 r = mid - 1
             else:
                 l = mid + 1
-                
+        
         return l
