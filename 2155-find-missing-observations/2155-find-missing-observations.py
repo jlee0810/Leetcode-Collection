@@ -15,8 +15,8 @@ class Solution:
         for i in range(remainder):
             result[i] += 1
 
-        for r in result:
-            if r < 1 or r > 6:
-                return []
+        # for r in result:
+        #     if r < 1 or r > 6:
+        #         return []
 
         return result
