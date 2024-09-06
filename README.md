@@ -144,6 +144,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0033-search-in-rotated-sorted-array) |
@@ -411,6 +412,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jlee0810/Leetcode-Collection/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
