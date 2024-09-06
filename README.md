@@ -263,6 +263,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/jlee0810/Leetcode-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -525,6 +526,7 @@
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2262-solving-questions-with-brainpower](https://github.com/jlee0810/Leetcode-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Graph
