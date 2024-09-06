@@ -288,6 +288,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Stack
 |  |
@@ -465,6 +466,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
 | [3474-better-compression-of-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/3474-better-compression-of-string) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -908,6 +910,7 @@
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
