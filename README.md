@@ -345,6 +345,7 @@
 | [0915-generate-random-point-in-a-circle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0915-generate-random-point-in-a-circle) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1131-count-substrings-with-only-one-distinct-letter](https://github.com/jlee0810/Leetcode-Collection/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/jlee0810/Leetcode-Collection/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1971-incremental-memory-leak](https://github.com/jlee0810/Leetcode-Collection/tree/master/1971-incremental-memory-leak) |
@@ -633,6 +634,7 @@
 | [0986-largest-time-for-given-digits](https://github.com/jlee0810/Leetcode-Collection/tree/master/0986-largest-time-for-given-digits) |
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
+| [1131-count-substrings-with-only-one-distinct-letter](https://github.com/jlee0810/Leetcode-Collection/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
 | [1250-longest-common-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/1250-longest-common-subsequence) |
