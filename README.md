@@ -420,6 +420,7 @@
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jlee0810/Leetcode-Collection/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jlee0810/Leetcode-Collection/tree/master/0217-contains-duplicate) |
 | [0266-palindrome-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0266-palindrome-permutation) |
@@ -613,6 +614,7 @@
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jlee0810/Leetcode-Collection/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
