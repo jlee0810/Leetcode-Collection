@@ -5,6 +5,7 @@ class Solution:
         current_sum = 0
 
         output = 0
+
         for num in nums:
             current_sum += num
             if current_sum - k in prefix_sum:
