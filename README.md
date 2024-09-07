@@ -282,6 +282,7 @@
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
+| [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -467,6 +468,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
+| [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -535,6 +537,7 @@
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/jlee0810/Leetcode-Collection/tree/master/2262-solving-questions-with-brainpower) |
+| [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Graph
@@ -672,6 +675,7 @@
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
+| [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [3247-number-of-same-end-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/3247-number-of-same-end-substrings) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -806,6 +810,7 @@
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
+| [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
