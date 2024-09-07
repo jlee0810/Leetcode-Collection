@@ -276,6 +276,7 @@
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/jlee0810/Leetcode-Collection/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2411-spiral-matrix-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/2411-spiral-matrix-iv) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
@@ -822,6 +823,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
+| [2411-spiral-matrix-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/2411-spiral-matrix-iv) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Two Pointers
 |  |
@@ -923,6 +925,7 @@
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2411-spiral-matrix-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
@@ -1006,6 +1009,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jlee0810/Leetcode-Collection/tree/master/2155-find-missing-observations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2411-spiral-matrix-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/2411-spiral-matrix-iv) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Segment Tree
 |  |
