@@ -213,6 +213,7 @@
 | [0666-path-sum-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/0666-path-sum-iv) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
+| [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/jlee0810/Leetcode-Collection/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jlee0810/Leetcode-Collection/tree/master/0739-daily-temperatures) |
@@ -401,6 +402,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
+| [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -800,6 +802,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jlee0810/Leetcode-Collection/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -990,6 +993,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/0456-132-pattern) |
+| [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
@@ -1028,6 +1032,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
 ## Probability and Statistics
