@@ -249,6 +249,7 @@
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/jlee0810/Leetcode-Collection/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jlee0810/Leetcode-Collection/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
@@ -464,6 +465,7 @@
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/jlee0810/Leetcode-Collection/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jlee0810/Leetcode-Collection/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -738,6 +740,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1165-meeting-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/1165-meeting-scheduler) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1829-maximum-units-on-a-truck](https://github.com/jlee0810/Leetcode-Collection/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
@@ -778,6 +781,7 @@
 | [1081-video-stitching](https://github.com/jlee0810/Leetcode-Collection/tree/master/1081-video-stitching) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1762-furthest-building-you-can-reach](https://github.com/jlee0810/Leetcode-Collection/tree/master/1762-furthest-building-you-can-reach) |
 | [1829-maximum-units-on-a-truck](https://github.com/jlee0810/Leetcode-Collection/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
