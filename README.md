@@ -927,6 +927,7 @@
 | [0148-sort-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/jlee0810/Leetcode-Collection/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/jlee0810/Leetcode-Collection/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1484-linked-list-in-binary-tree) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
