@@ -226,6 +226,7 @@
 | [0817-design-hashmap](https://github.com/jlee0810/Leetcode-Collection/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/jlee0810/Leetcode-Collection/tree/master/0833-bus-routes) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
+| [0876-hand-of-straights](https://github.com/jlee0810/Leetcode-Collection/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/jlee0810/Leetcode-Collection/tree/master/0907-koko-eating-bananas) |
@@ -460,6 +461,7 @@
 | [0817-design-hashmap](https://github.com/jlee0810/Leetcode-Collection/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/jlee0810/Leetcode-Collection/tree/master/0833-bus-routes) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
+| [0876-hand-of-straights](https://github.com/jlee0810/Leetcode-Collection/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jlee0810/Leetcode-Collection/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
@@ -745,6 +747,7 @@
 | [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
+| [0876-hand-of-straights](https://github.com/jlee0810/Leetcode-Collection/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1165-meeting-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/1165-meeting-scheduler) |
@@ -784,6 +787,7 @@
 | [0670-maximum-swap](https://github.com/jlee0810/Leetcode-Collection/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/jlee0810/Leetcode-Collection/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jlee0810/Leetcode-Collection/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-video-stitching](https://github.com/jlee0810/Leetcode-Collection/tree/master/1081-video-stitching) |
