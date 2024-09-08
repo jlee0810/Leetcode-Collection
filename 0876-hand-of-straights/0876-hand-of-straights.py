@@ -4,11 +4,12 @@ class Solution:
             return False
 
         cnt = Counter(hand)
-        min_heap = heapify(list(cnt.keys()))
+        min_heap = list(cnt.keys())
+        heapify(min_heap)
 
         while min_heap:
             top = min_heap[0]
-            for i in range(1, groupSize):
+            for i in range(groupSize):
                 curr = top + i
                 if curr not in cnt:
                     return False
@@ -19,3 +20,4 @@ class Solution:
                     else:
                         heappop(min_heap)
         return True
+
