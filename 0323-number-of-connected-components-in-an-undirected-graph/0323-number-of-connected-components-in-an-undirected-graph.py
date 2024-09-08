@@ -4,23 +4,21 @@ class Solution:
         parent = [i for i in range(n)]
 
         def find(node):
-            while parent[node] != node:
-                node = parent[node]
+            if node != parent[node]:
+                return find(parent[node])
             return node
 
-        def union(node1, node2):
-            parent1 = find(node1)
-            parent2 = find(node2)
+        def union(n1, n2):
+            root_n1 = find(n1)
+            root_n2 = find(n2)
 
-            if parent1 == parent2:
-                return
-            else:
-                if rank[parent1] >= rank[parent2]:
-                    parent[parent2] = parent[parent1]
-                    rank[parent1] += rank[parent2]
+            if root_n1 != root_n2:
+                if rank[root_n1] >= rank[root_n2]:
+                    parent[root_n2] = parent[root_n1]
+                    rank[root_n1] += rank[root_n2]
                 else:
-                    parent[parent1] = parent[parent2]
-                    rank[parent2] += rank[parent1]
+                    parent[root_n1] = parent[root_n2]
+                    rank[root_n2] += rank[root_n1]
 
         for n1, n2 in edges:
             union(n1, n2)
