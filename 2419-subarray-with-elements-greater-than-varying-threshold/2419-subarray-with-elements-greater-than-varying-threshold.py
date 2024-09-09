@@ -11,7 +11,7 @@ class Solution:
             if stack:
                 left[i] = stack[-1]
             stack.append(i)
-        
+    
         stack = []
         
         for i in range(n - 1, -1, -1):
