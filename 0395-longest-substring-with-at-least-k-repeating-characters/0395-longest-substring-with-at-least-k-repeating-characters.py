@@ -2,13 +2,13 @@ class Solution:
     def longestSubstring(self, s: str, k: int) -> int:
         if len(s) == 0 or k > len(s):
             return 0
-        
-        c = Counter(s)
-        
-        for i, letter in enumerate(s):
-            if c[letter] < k:
-                sub1 = self.longestSubstring(s[:i], k)
-                sub2 = self.longestSubstring(s[i+1:], k)
-                return max(sub1, sub2)
-        
+
+        cnt = Counter(s)
+
+        for idx, c in enumerate(s):
+            if cnt[c] < k:
+                left = self.longestSubstring(s[:idx], k)
+                right = self.longestSubstring(s[idx+1:], k)
+                return max(left, right)
+            
         return len(s)
