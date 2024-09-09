@@ -263,6 +263,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1829-maximum-units-on-a-truck](https://github.com/jlee0810/Leetcode-Collection/tree/master/1829-maximum-units-on-a-truck) |
+| [1899-count-items-matching-a-rule](https://github.com/jlee0810/Leetcode-Collection/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -695,6 +696,7 @@
 | [1660-thousand-separator](https://github.com/jlee0810/Leetcode-Collection/tree/master/1660-thousand-separator) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1899-count-items-matching-a-rule](https://github.com/jlee0810/Leetcode-Collection/tree/master/1899-count-items-matching-a-rule) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jlee0810/Leetcode-Collection/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
