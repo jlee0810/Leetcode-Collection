@@ -374,6 +374,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1131-count-substrings-with-only-one-distinct-letter](https://github.com/jlee0810/Leetcode-Collection/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/jlee0810/Leetcode-Collection/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
 | [1971-incremental-memory-leak](https://github.com/jlee0810/Leetcode-Collection/tree/master/1971-incremental-memory-leak) |
@@ -699,6 +700,7 @@
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
 | [1250-longest-common-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/1250-longest-common-subsequence) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jlee0810/Leetcode-Collection/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jlee0810/Leetcode-Collection/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1011,6 +1013,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0867-new-21-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0867-new-21-game) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/jlee0810/Leetcode-Collection/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jlee0810/Leetcode-Collection/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
