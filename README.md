@@ -284,6 +284,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/jlee0810/Leetcode-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
@@ -490,6 +491,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
@@ -829,6 +831,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
