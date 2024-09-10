@@ -21,5 +21,6 @@ class Solution:
                 in_degree[dependent] -= 1
                 if in_degree[dependent] == 0:
                     q.append(dependent)
+                
         
         return took == numCourses
