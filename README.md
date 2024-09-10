@@ -23,6 +23,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [0666-path-sum-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/0666-path-sum-iv) |
+| [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -61,6 +62,7 @@
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [0666-path-sum-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/0666-path-sum-iv) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
 | [0694-number-of-distinct-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
@@ -99,6 +101,7 @@
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
 | [0694-number-of-distinct-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
@@ -215,6 +218,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/0624-maximum-distance-in-arrays) |
 | [0666-path-sum-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/0666-path-sum-iv) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
@@ -473,6 +477,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0666-path-sum-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/0666-path-sum-iv) |
+| [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
 | [0694-number-of-distinct-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0694-number-of-distinct-islands) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
