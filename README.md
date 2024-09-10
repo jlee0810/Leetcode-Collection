@@ -250,6 +250,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/jlee0810/Leetcode-Collection/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jlee0810/Leetcode-Collection/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -632,6 +633,7 @@
 | [0473-matchsticks-to-square](https://github.com/jlee0810/Leetcode-Collection/tree/master/0473-matchsticks-to-square) |
 | [0813-all-paths-from-source-to-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/0813-all-paths-from-source-to-target) |
 | [0834-ambiguous-coordinates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0834-ambiguous-coordinates) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Bit Manipulation
@@ -646,6 +648,7 @@
 | [0473-matchsticks-to-square](https://github.com/jlee0810/Leetcode-Collection/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/jlee0810/Leetcode-Collection/tree/master/0476-number-complement) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jlee0810/Leetcode-Collection/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
@@ -700,6 +703,7 @@
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
 | [1250-longest-common-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/1250-longest-common-subsequence) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jlee0810/Leetcode-Collection/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
