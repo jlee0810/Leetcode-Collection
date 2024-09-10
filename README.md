@@ -277,6 +277,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jlee0810/Leetcode-Collection/tree/master/2155-find-missing-observations) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -434,6 +435,7 @@
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jlee0810/Leetcode-Collection/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
