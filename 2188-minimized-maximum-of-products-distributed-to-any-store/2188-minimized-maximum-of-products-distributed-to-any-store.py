@@ -8,11 +8,13 @@ class Solution:
 
         l, r = 1, max(quantities)
 
-        while l < r:
+        result = None
+        while l <= r:
             mid = (l + r) // 2
             if verify(mid):
-                r = mid
+                result = mid
+                r = mid - 1
             else:
                 l = mid + 1
-                
-        return l
+
+        return result
