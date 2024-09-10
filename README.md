@@ -499,6 +499,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jlee0810/Leetcode-Collection/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -723,6 +724,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1899-count-items-matching-a-rule](https://github.com/jlee0810/Leetcode-Collection/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jlee0810/Leetcode-Collection/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jlee0810/Leetcode-Collection/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -845,6 +847,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jlee0810/Leetcode-Collection/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
