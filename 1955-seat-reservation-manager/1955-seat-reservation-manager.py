@@ -3,7 +3,7 @@ class SeatManager:
     def __init__(self, n: int):
         self.avail = []
         for i in range(1, n + 1):
-            heappush(self.avail, i)
+            self.avail.append(i)
 
     def reserve(self) -> int:
         smallest_seat = heappop(self.avail)
