@@ -400,6 +400,7 @@
 | [2491-smallest-even-multiple](https://github.com/jlee0810/Leetcode-Collection/tree/master/2491-smallest-even-multiple) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jlee0810/Leetcode-Collection/tree/master/2610-closest-prime-numbers-in-range) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Geometry
@@ -854,6 +855,7 @@
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jlee0810/Leetcode-Collection/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Counting
