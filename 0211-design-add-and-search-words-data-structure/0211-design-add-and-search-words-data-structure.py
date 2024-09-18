@@ -4,7 +4,6 @@ class TrieNode:
         self.end = False
 
 class WordDictionary:
-
     def __init__(self):
         self.root = TrieNode()
         
@@ -22,7 +21,7 @@ class WordDictionary:
                 return True
             if len(s) == 0:
                 return False
-            
+
             for idx, c in enumerate(s):
                 if c == '.':
                     for child in node.child:
