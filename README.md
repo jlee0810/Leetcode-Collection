@@ -376,6 +376,7 @@
 | [0069-sqrtx](https://github.com/jlee0810/Leetcode-Collection/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
@@ -563,6 +564,7 @@
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jlee0810/Leetcode-Collection/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [0256-paint-house](https://github.com/jlee0810/Leetcode-Collection/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jlee0810/Leetcode-Collection/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -702,6 +704,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jlee0810/Leetcode-Collection/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [0266-palindrome-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0266-palindrome-permutation) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
 | [0320-generalized-abbreviation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0320-generalized-abbreviation) |
@@ -991,6 +994,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Eulerian Circuit
@@ -1047,6 +1051,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
