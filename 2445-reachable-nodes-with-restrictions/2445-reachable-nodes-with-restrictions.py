@@ -17,5 +17,5 @@ class Solution:
                 if possible_node not in visited and possible_node not in restricted:
                     q.append(possible_node)
                     visited.add(possible_node)
-        
+
         return len(visited)
