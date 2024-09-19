@@ -36,6 +36,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 ## Depth-First Search
 |  |
@@ -83,6 +84,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 ## Breadth-First Search
 |  |
@@ -120,6 +122,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -305,6 +308,7 @@
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2411-spiral-matrix-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/2411-spiral-matrix-iv) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -522,6 +526,7 @@
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
@@ -617,6 +622,7 @@
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2803-modify-graph-edge-weights](https://github.com/jlee0810/Leetcode-Collection/tree/master/2803-modify-graph-edge-weights) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -641,6 +647,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/jlee0810/Leetcode-Collection/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Backtracking
 |  |
 | ------- |
