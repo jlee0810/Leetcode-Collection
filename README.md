@@ -663,6 +663,7 @@
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0320-generalized-abbreviation) |
 | [0473-matchsticks-to-square](https://github.com/jlee0810/Leetcode-Collection/tree/master/0473-matchsticks-to-square) |
 | [0813-all-paths-from-source-to-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/0813-all-paths-from-source-to-target) |
@@ -713,6 +714,7 @@
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [0266-palindrome-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0266-palindrome-permutation) |
+| [0306-additive-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
 | [0320-generalized-abbreviation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0320-generalized-abbreviation) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
