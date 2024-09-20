@@ -712,6 +712,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jlee0810/Leetcode-Collection/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [0266-palindrome-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0266-palindrome-permutation) |
@@ -1155,10 +1156,12 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [0694-number-of-distinct-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0694-number-of-distinct-islands) |
 | [0817-design-hashmap](https://github.com/jlee0810/Leetcode-Collection/tree/master/0817-design-hashmap) |
@@ -1196,4 +1199,8 @@
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/jlee0810/Leetcode-Collection/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/jlee0810/Leetcode-Collection/tree/master/1203-print-in-order) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
