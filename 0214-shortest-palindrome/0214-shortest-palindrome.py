@@ -1,21 +1,22 @@
 class Solution:
     def shortestPalindrome(self, s: str) -> str:
-        length = len(s)
+        prefix = 0
+        suffix = 0
+        base = 29
+        last_idx = 0
+        power = 1
+        mod = 10 ** 9 + 7
 
-        if length == 0:
-            return s
+        for i, c in enumerate(s):
+            char = (ord(c) - ord('a') + 1)
+            prefix = (prefix * base) % mod
+            prefix = (prefix + char) % mod
 
-        left = 0
-        for right in range(length - 1, -1, -1):
-            if s[right] == s[left]:
-                left += 1
+            suffix = (suffix + char * power) % mod
+            power = (power * base) % mod
 
-        if left == length:
-            return s
-
-        non_palindrome_suffix = s[left:]
-        reverse_suffix = non_palindrome_suffix[::-1]
-
-        return (
-            reverse_suffix + self.shortestPalindrome(s[:left]) + non_palindrome_suffix
-        )
+            if prefix == suffix:
+                last_idx = i
+        
+        suffix = s[last_idx + 1:]
+        return suffix[::-1] + s
