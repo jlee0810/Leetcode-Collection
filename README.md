@@ -38,6 +38,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [3486-count-the-number-of-good-nodes](https://github.com/jlee0810/Leetcode-Collection/tree/master/3486-count-the-number-of-good-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [3486-count-the-number-of-good-nodes](https://github.com/jlee0810/Leetcode-Collection/tree/master/3486-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
