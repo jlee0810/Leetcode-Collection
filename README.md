@@ -384,6 +384,7 @@
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
