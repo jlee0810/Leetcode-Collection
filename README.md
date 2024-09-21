@@ -60,6 +60,7 @@
 | [0285-inorder-successor-in-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0285-inorder-successor-in-bst) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
+| [0386-lexicographical-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
@@ -923,6 +924,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jlee0810/Leetcode-Collection/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
