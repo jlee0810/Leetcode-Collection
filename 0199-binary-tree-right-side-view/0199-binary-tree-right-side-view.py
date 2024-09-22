@@ -24,5 +24,5 @@ class Solution:
                     q.append(node.right)
                 curr_level.append(node.val)
             result.append(curr_level[-1])
-
+        
         return result
