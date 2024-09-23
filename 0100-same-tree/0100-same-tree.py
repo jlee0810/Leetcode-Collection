@@ -11,10 +11,7 @@ class Solution:
         if not p or not q:
             return False
         
-        same_left = self.isSameTree(p.left, q.left)
-        same_right = self.isSameTree(p.right, q.right)
+        left = self.isSameTree(p.left, q.left)
+        right = self.isSameTree(p.right, q.right)
 
-        if same_left and same_right and p.val == q.val:
-            return True
-        else:
-            return False
+        return left and right and p.val == q.val
