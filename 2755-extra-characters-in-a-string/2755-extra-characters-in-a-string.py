@@ -8,5 +8,4 @@ class Solution:
                 substring = s[start:end + 1]
                 if substring in dictionary:
                     dp[start] = min(dp[start], dp[end + 1])
-        
         return dp[0]
