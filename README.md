@@ -316,6 +316,7 @@
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
+| [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -606,6 +607,7 @@
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jlee0810/Leetcode-Collection/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/jlee0810/Leetcode-Collection/tree/master/2262-solving-questions-with-brainpower) |
+| [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -676,6 +678,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -694,6 +697,7 @@
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
+| [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 ## String
 |  |
 | ------- |
@@ -836,6 +840,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/jlee0810/Leetcode-Collection/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
@@ -880,6 +885,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -1129,6 +1135,7 @@
 | [0986-largest-time-for-given-digits](https://github.com/jlee0810/Leetcode-Collection/tree/master/0986-largest-time-for-given-digits) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/jlee0810/Leetcode-Collection/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 ## Simulation
 |  |
 | ------- |
