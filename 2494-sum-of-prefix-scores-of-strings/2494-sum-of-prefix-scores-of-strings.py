@@ -6,21 +6,21 @@ class TrieNode:
 class Trie:
     def __init__(self):
         self.root = TrieNode()
-        
-    def insert(self, word: str) -> None:
+    
+    def insert(self, word):
         node = self.root
-        for char in word:
-            if char not in node.children:
-                node.children[char] = TrieNode()
-            node = node.children[char]
+        for c in word:
+            if c not in node.children:
+                node.children[c] = TrieNode()
+            node = node.children[c]
             node.count += 1
 
-    def getPrefixScore(self, word: str) -> int:
+    def getPrefixScore(self, word):
         node = self.root
         score = 0
-        for char in word:
-            if char in node.children:
-                node = node.children[char]
+        for c in word:
+            if c in node.children:
+                node = node.children[c]
                 score += node.count
         return score
 
