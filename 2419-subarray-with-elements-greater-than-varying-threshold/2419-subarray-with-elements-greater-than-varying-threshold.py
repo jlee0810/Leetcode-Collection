@@ -11,7 +11,7 @@ class Solution:
             if stack:
                 left[i] = stack[-1]
             stack.append(i)
-    
+
         stack = []
         
         for i in range(n - 1, -1, -1):
@@ -21,6 +21,7 @@ class Solution:
                 right[i] = stack[-1]
             stack.append(i)
 
+            
         for i in range(n):
             k = right[i] - left[i] - 1
             if nums[i] > threshold / k:
