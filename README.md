@@ -59,6 +59,7 @@
 | [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0285-inorder-successor-in-bst) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
@@ -106,6 +107,7 @@
 | [0286-walls-and-gates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
 | [0694-number-of-distinct-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0694-number-of-distinct-islands) |
@@ -209,6 +211,7 @@
 | [0305-number-of-islands-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0305-number-of-islands-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jlee0810/Leetcode-Collection/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
 | [0370-range-addition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0370-range-addition) |
 | [0376-wiggle-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0376-wiggle-subsequence) |
@@ -582,6 +585,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jlee0810/Leetcode-Collection/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
@@ -620,6 +624,7 @@
 | [0210-course-schedule-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jlee0810/Leetcode-Collection/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/jlee0810/Leetcode-Collection/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/0744-network-delay-time) |
@@ -639,6 +644,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/jlee0810/Leetcode-Collection/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1177-tree-diameter](https://github.com/jlee0810/Leetcode-Collection/tree/master/1177-tree-diameter) |
 ## Union Find
 |  |
@@ -952,6 +958,7 @@
 | [0200-number-of-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0286-walls-and-gates) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/0695-max-area-of-island) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/jlee0810/Leetcode-Collection/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
@@ -1026,6 +1033,7 @@
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Eulerian Circuit
