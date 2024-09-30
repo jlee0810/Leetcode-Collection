@@ -338,6 +338,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
@@ -707,6 +708,7 @@
 | [0012-integer-to-roman](https://github.com/jlee0810/Leetcode-Collection/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jlee0810/Leetcode-Collection/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
