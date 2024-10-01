@@ -5,22 +5,18 @@ class Solution:
             decoded = []
 
             while idx < len(s):
-                if s[idx].isnumeric():
+                if s[idx].isdigit():
                     count = count * 10 + int(s[idx])
                     idx += 1
                 elif s[idx] == '[':
-                    substring, idx = recurse(idx + 1)
-                    substring *= count
-                    decoded.append(substring)
+                    substr, idx = recurse(idx + 1)
+                    decoded.append(substr * count)
                     count = 0
                 elif s[idx] == ']':
-                    compile_string = ''.join(decoded)
-                    return compile_string, idx + 1
+                    return "".join(decoded), idx + 1
                 else:
                     decoded.append(s[idx])
                     idx += 1
-        
+            
             return "".join(decoded)
-
         return recurse(0)
-
