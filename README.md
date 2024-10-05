@@ -503,6 +503,7 @@
 | [0525-contiguous-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/jlee0810/Leetcode-Collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0666-path-sum-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/0666-path-sum-iv) |
 | [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
@@ -747,6 +748,7 @@
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jlee0810/Leetcode-Collection/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
@@ -997,6 +999,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
+| [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
@@ -1113,6 +1116,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0867-new-21-game) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/jlee0810/Leetcode-Collection/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/1430-find-the-k-beauty-of-a-number) |
