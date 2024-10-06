@@ -288,6 +288,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/jlee0810/Leetcode-Collection/tree/master/1829-maximum-units-on-a-truck) |
 | [1899-count-items-matching-a-rule](https://github.com/jlee0810/Leetcode-Collection/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
+| [1923-sentence-similarity-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/1923-sentence-similarity-iii) |
 | [1961-maximum-ice-cream-bars](https://github.com/jlee0810/Leetcode-Collection/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jlee0810/Leetcode-Collection/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jlee0810/Leetcode-Collection/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -782,6 +783,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/jlee0810/Leetcode-Collection/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jlee0810/Leetcode-Collection/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1923-sentence-similarity-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jlee0810/Leetcode-Collection/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1005,6 +1007,7 @@
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1165-meeting-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/1165-meeting-scheduler) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
+| [1923-sentence-similarity-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/1923-sentence-similarity-iii) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
