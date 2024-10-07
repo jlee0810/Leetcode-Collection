@@ -6,4 +6,5 @@ class Solution:
             for j in range(i + 1, len(nums)):
                 if nums[j] > nums[i]:
                     max_length[i] = max(max_length[i], max_length[j] + 1)
+    
         return max(max_length) + 1
