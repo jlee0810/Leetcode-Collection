@@ -1,20 +1,18 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
-        word_set = set(wordDict)
-        results = []
+        result = []
 
-        def backtrack(current_sentence, start_index):
-            nonlocal results
-            if start_index == len(s):
-                results.append(" ".join(current_sentence))
+        def backtrack(start_idx, sentence):
+            if start_idx == len(s):
+                result.append(" ".join(sentence))
                 return
-    
-            for end_index in range(start_index + 1, len(s) + 1):
-                word = s[start_index:end_index]
-                if word in word_set:
-                    current_sentence.append(word)
-                    backtrack(current_sentence, end_index)
-                    current_sentence.pop()
+            for end_idx in range(start_idx + 1, len(s) + 1):
+                word = s[start_idx : end_idx]
+                if word in wordDict:
+                    sentence.append(word)
+                    backtrack(end_idx, sentence)
+                    sentence.pop()
+            
+        backtrack(0, [])
 
-        backtrack([],0)
-        return results
+        return result
