@@ -1,8 +1,8 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         def recurse(idx):
-            count = 0
             decoded = []
+            count = 0
 
             while idx < len(s):
                 if s[idx].isdigit():
@@ -19,4 +19,5 @@ class Solution:
                     idx += 1
             
             return "".join(decoded)
+
         return recurse(0)
