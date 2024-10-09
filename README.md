@@ -487,6 +487,7 @@
 | [0012-integer-to-roman](https://github.com/jlee0810/Leetcode-Collection/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/jlee0810/Leetcode-Collection/tree/master/0138-copy-list-with-random-pointer) |
@@ -728,6 +729,7 @@
 | [0058-length-of-last-word](https://github.com/jlee0810/Leetcode-Collection/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jlee0810/Leetcode-Collection/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
@@ -1120,6 +1122,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
