@@ -5,7 +5,7 @@ class Solution:
         for startTime, endTime in intervals:
             time[startTime] += 1
             time[endTime] -= 1
-
+        
         max_intersect = 0
         intersect = 0
 
