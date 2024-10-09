@@ -510,6 +510,7 @@
 | [0554-brick-wall](https://github.com/jlee0810/Leetcode-Collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
+| [0588-design-in-memory-file-system](https://github.com/jlee0810/Leetcode-Collection/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0666-path-sum-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/0666-path-sum-iv) |
 | [0690-employee-importance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0690-employee-importance) |
@@ -759,6 +760,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
+| [0588-design-in-memory-file-system](https://github.com/jlee0810/Leetcode-Collection/tree/master/0588-design-in-memory-file-system) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jlee0810/Leetcode-Collection/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/0657-robot-return-to-origin) |
@@ -854,6 +856,7 @@
 | [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
+| [0588-design-in-memory-file-system](https://github.com/jlee0810/Leetcode-Collection/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0778-reorganize-string) |
@@ -953,6 +956,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jlee0810/Leetcode-Collection/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
+| [0588-design-in-memory-file-system](https://github.com/jlee0810/Leetcode-Collection/tree/master/0588-design-in-memory-file-system) |
 | [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
@@ -971,6 +975,7 @@
 | [0386-lexicographical-numbers](https://github.com/jlee0810/Leetcode-Collection/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/jlee0810/Leetcode-Collection/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
+| [0588-design-in-memory-file-system](https://github.com/jlee0810/Leetcode-Collection/tree/master/0588-design-in-memory-file-system) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2494-sum-of-prefix-scores-of-strings) |
