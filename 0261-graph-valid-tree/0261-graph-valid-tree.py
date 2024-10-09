@@ -23,8 +23,9 @@ class Solution:
                 else:
                     parent[parent1] = parent[parent2]
                     rank[parent2] += rank[parent1]
+
             return False
-            
+
         for n1, n2 in edges:
             if union(n1, n2):
                 return False
@@ -32,5 +33,5 @@ class Solution:
         s_parent = set()
         for i in range(n):
             s_parent.add(find(i))
-        
+
         return len(s_parent) == 1
