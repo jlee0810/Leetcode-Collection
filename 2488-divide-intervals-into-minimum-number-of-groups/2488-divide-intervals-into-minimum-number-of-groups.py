@@ -11,7 +11,7 @@ class Solution:
         min_groups = 0
         current_groups = 0
 
-        for t in range(max_time + 1):
+        for t in sorted(time.keys()):
             current_groups += time[t]
             min_groups = max(min_groups, current_groups)
 
