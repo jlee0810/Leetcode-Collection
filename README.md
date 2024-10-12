@@ -323,6 +323,7 @@
 | [2411-spiral-matrix-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/2411-spiral-matrix-iv) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/jlee0810/Leetcode-Collection/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
@@ -841,6 +842,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/jlee0810/Leetcode-Collection/tree/master/2803-modify-graph-edge-weights) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
 ## Sorting
@@ -881,6 +883,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/jlee0810/Leetcode-Collection/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 | [2833-count-zero-request-servers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2833-count-zero-request-servers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -928,6 +931,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
@@ -1035,6 +1039,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -1055,6 +1060,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jlee0810/Leetcode-Collection/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 | [3247-number-of-same-end-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/3247-number-of-same-end-substrings) |
