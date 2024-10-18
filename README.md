@@ -305,6 +305,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jlee0810/Leetcode-Collection/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -707,6 +708,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 ## Bit Manipulation
 |  |
@@ -724,6 +726,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jlee0810/Leetcode-Collection/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
 | [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
@@ -1205,6 +1208,7 @@
 | [0834-ambiguous-coordinates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0834-ambiguous-coordinates) |
 | [0986-largest-time-for-given-digits](https://github.com/jlee0810/Leetcode-Collection/tree/master/0986-largest-time-for-given-digits) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/jlee0810/Leetcode-Collection/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/jlee0810/Leetcode-Collection/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 ## Simulation
