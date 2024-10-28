@@ -11,37 +11,37 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        struct Compare {
-            bool operator()(const pair<int, ListNode*>& a, const pair<int, ListNode*>& b) {
-                return a.first > b.first;
-            }
+        auto cmp = [](pair<int, ListNode*>a, pair<int, ListNode*>b) {
+            return a.first > b.first;
         };
 
-        priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>, Compare> pq;
+        priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>, decltype(cmp)> min_heap(cmp);
 
         for (auto lst : lists) {
             if (lst) {
-                pq.push({lst->val, lst});
+                min_heap.push({lst->val, lst});
             }
         }
-
 
         ListNode* dummy = new ListNode();
         ListNode* curr = dummy;
 
-        while (!pq.empty()) {
-            auto [val, node] = pq.top();
-            pq.pop();
+        while (!min_heap.empty()) {
+            int val = min_heap.top().first;
+            ListNode* node = min_heap.top().second;
+
+            min_heap.pop();
 
             curr -> next = node;
-            curr = curr -> next;
+            curr = curr->next; 
 
             if (node -> next) {
-                pq.push({node->next->val, node->next});
-            }
+                min_heap.push(make_pair(node->next->val, node->next));
+            } 
         }
 
         return dummy->next;
-        
+
+
     }
 };
