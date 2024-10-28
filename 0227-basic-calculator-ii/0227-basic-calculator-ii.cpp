@@ -5,7 +5,7 @@ public:
         char prev_op = '+';
         int num = 0;
 
-        for (int i = 0; i < s.size(); ++i) {
+        for (int i = 0; i < s.size(); i++) {
             char c = s[i];
 
             if (isdigit(c)) {
@@ -15,13 +15,16 @@ public:
             if (!isdigit(c) && c != ' ' || i == s.size() - 1) {
                 if (prev_op == '+') {
                     stck.push(num);
-                } else if (prev_op == '-') {
+                }
+                else if (prev_op == '-') {
                     stck.push(-num);
-                } else if (prev_op == '*') {
+                }
+                else if (prev_op == '*') {
                     int top = stck.top();
                     stck.pop();
                     stck.push(top * num);
-                } else if (prev_op == '/') {
+                }
+                else if (prev_op == '/') {
                     int top = stck.top();
                     stck.pop();
                     stck.push(top / num);
@@ -31,10 +34,12 @@ public:
                 num = 0;
             }
         }
-
+        
         int result = 0;
-        while (!stck.empty()) {
-            result += stck.top();
+
+        while(!stck.empty()) {
+            int top = stck.top();
+            result += top;
             stck.pop();
         }
 
