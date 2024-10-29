@@ -171,6 +171,7 @@
 | [0011-container-with-most-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/jlee0810/Leetcode-Collection/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
@@ -499,6 +500,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jlee0810/Leetcode-Collection/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/jlee0810/Leetcode-Collection/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1012,6 +1014,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jlee0810/Leetcode-Collection/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0200-number-of-islands) |
