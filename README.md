@@ -275,6 +275,7 @@
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
 | [1192-divide-chocolate](https://github.com/jlee0810/Leetcode-Collection/tree/master/1192-divide-chocolate) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1249-snapshot-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1256-rank-transform-of-an-array) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
@@ -483,6 +484,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jlee0810/Leetcode-Collection/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1192-divide-chocolate](https://github.com/jlee0810/Leetcode-Collection/tree/master/1192-divide-chocolate) |
+| [1249-snapshot-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jlee0810/Leetcode-Collection/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -545,6 +547,7 @@
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
+| [1249-snapshot-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1256-rank-transform-of-an-array) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/jlee0810/Leetcode-Collection/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -995,6 +998,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/jlee0810/Leetcode-Collection/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1249-snapshot-array) |
 | [1955-seat-reservation-manager](https://github.com/jlee0810/Leetcode-Collection/tree/master/1955-seat-reservation-manager) |
 ## Trie
 |  |
