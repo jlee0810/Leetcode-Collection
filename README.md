@@ -265,6 +265,7 @@
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/jlee0810/Leetcode-Collection/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1028-interval-list-intersections](https://github.com/jlee0810/Leetcode-Collection/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jlee0810/Leetcode-Collection/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jlee0810/Leetcode-Collection/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1081-video-stitching](https://github.com/jlee0810/Leetcode-Collection/tree/master/1081-video-stitching) |
@@ -1058,6 +1059,7 @@
 | [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
+| [1028-interval-list-intersections](https://github.com/jlee0810/Leetcode-Collection/tree/master/1028-interval-list-intersections) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1165-meeting-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/1165-meeting-scheduler) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
