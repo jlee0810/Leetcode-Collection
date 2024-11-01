@@ -9,7 +9,7 @@ class Solution:
         def inorder(node):
             nonlocal k
             if not node:
-                return None
+                return node
             left = inorder(node.left)
             if left is not None:
                 return left
@@ -18,4 +18,5 @@ class Solution:
                 return node.val
             right = inorder(node.right)
             return right
+        
         return inorder(root)
