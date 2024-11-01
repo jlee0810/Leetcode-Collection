@@ -1,10 +1,14 @@
 class Solution:
     def canAttendMeetings(self, intervals: List[List[int]]) -> bool:
         intervals.sort()
-        last_end = -1000000
-        for interval in intervals:
-            if interval[0] < last_end:
+        if not intervals:
+            return True
+        last_meet = intervals[0][1]
+
+        for i in range(1, len(intervals)):
+            if intervals[i][0] < last_meet:
                 return False
-            last_end = interval[1]
+            else:
+                last_meet = intervals[i][1]
 
         return True
