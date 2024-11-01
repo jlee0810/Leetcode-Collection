@@ -83,6 +83,7 @@
 | [1177-tree-diameter](https://github.com/jlee0810/Leetcode-Collection/tree/master/1177-tree-diameter) |
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/jlee0810/Leetcode-Collection/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jlee0810/Leetcode-Collection/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -280,6 +281,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1256-rank-transform-of-an-array) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jlee0810/Leetcode-Collection/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jlee0810/Leetcode-Collection/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1376-selling-pieces-of-wood](https://github.com/jlee0810/Leetcode-Collection/tree/master/1376-selling-pieces-of-wood) |
@@ -808,6 +810,7 @@
 | [1250-longest-common-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/1250-longest-common-subsequence) |
 | [1281-can-make-palindrome-from-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/1281-can-make-palindrome-from-substring) |
 | [1304-longest-happy-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jlee0810/Leetcode-Collection/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
@@ -1015,6 +1018,7 @@
 | [0588-design-in-memory-file-system](https://github.com/jlee0810/Leetcode-Collection/tree/master/0588-design-in-memory-file-system) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0839-short-encoding-of-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jlee0810/Leetcode-Collection/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
