@@ -2,32 +2,19 @@ class Solution:
     def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
         cache = {}
 
-        intervals = sorted(zip(startTime, endTime, profit), key=lambda x: x[0])
-
-        def b_search(curr_end):
-            result = len(intervals)
-            start, end = 0, len(intervals) - 1
-            while start <= end:
-                mid = (start + end) // 2
-                if intervals[mid][0] >= curr_end:
-                    result = mid
-                    end = mid - 1
-                else:
-                    start = mid + 1
-            return result
-
+        intervals = [[start, end, p] for start, end, p in zip(startTime, endTime, profit)]
+        
         def dp(i):
-            if i == len(intervals):
+            if i == len(startTime):
                 return 0
             if i in cache:
                 return cache[i]
             
-            bestProfit = dp(i + 1)
-            
-            next_avail_idx = b_search(intervals[i][1])
-            bestProfit = max(bestProfit, dp(next_avail_idx) + intervals[i][2])
-            
-            cache[i] = bestProfit
-            return cache[i]
-        
+            best_profit = dp(i + 1) #skip i
+            next_avail_idx = bisect.bisect_left(intervals, [intervals[i][1], 0, 0])
+            print(next_avail_idx)
+            best_profit = max(best_profit, dp(next_avail_idx) + intervals[i][2])
+
+            return best_profit 
+
         return dp(0)
