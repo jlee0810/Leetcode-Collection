@@ -1,35 +1,21 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        stack = []
-        num = 0
-        prev_operator = '+'
+        prev_op = '+'
+        num = 0 
+        stck = []
 
-        for i in range(len(s)):
-            char = s[i]
-
-            if char.isdigit():
-                num = num * 10 + int(char)
-            
-            if not char.isdigit() and char != ' ' or i == len(s):
-                if prev_operator == '+':
-                    stack.append(num)
-                if prev_operator == '-':
-                    stack.append(-num)
-                if prev_operator == '*':
-                    stack.append(stack.pop() * num)
-                if prev_operator == '/':
-                    stack.append(int(stack.pop() / num))
-                
-                prev_operator = char
+        for idx, c in enumerate(s):
+            if c.isdigit():
+                num = num * 10 + int(c)
+            if not c.isdigit() and c != ' ' or idx == len(s) - 1:
+                if prev_op == '+':
+                    stck.append(num)
+                elif prev_op == '-':
+                    stck.append(-num)
+                elif prev_op == '*':
+                    stck.append(stck.pop() * num)
+                elif prev_op == '/':
+                    stck.append(int(stck.pop() / num))
+                prev_op = c
                 num = 0
-                
-        if prev_operator == '+':
-            stack.append(num)
-        if prev_operator == '-':
-            stack.append(-num)
-        if prev_operator == '*':
-            stack.append(stack.pop() * num)
-        if prev_operator == '/':
-            stack.append(int(stack.pop() / num))
-
-        return sum(stack)
+        return sum(stck)
