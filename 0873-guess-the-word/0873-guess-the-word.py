@@ -7,40 +7,46 @@
 
 class Solution:
     def findSecretWord(self, words: List[str], master: 'Master') -> None:
-        def removeInvalidWord():
+        def filter(guess_word, match_count):
             filtered = []
             for word in words:
-                if pair_matches(guess_word, word) == match:
+                if pair_matches(word, guess_word) == match_count:
                     filtered.append(word)
             
-            return filteredList
+            return filtered
 
-        def pair_matches(a, b):
-            return sum(c1 == c2 for c1, c2 in zip(a, b))
+        def pair_matches(w1, w2):
+            score = 0
+            for c1, c2 in zip(w1, w2):
+                if c1 == c2:
+                    score += 1
+            return score
+        
+        def best_guess():
+            char_count = [[0 for _ in range(26)] for _ in range(6)]
 
-        def getMostCommon():
-            counts = [[0] * 26 for _ in range(6)]
+            for word in words:
+                for i, c in enumerate(word):
+                    char_count[i][ord(c) - ord('a')] += 1
+            
+            best_choice = ""
+            best_count = 0
 
-            for w in words:
-                for i, c in enumerate(w):
-                    counts[i][ord(c) - ord('a')] += 1
+            for word in words:
+                count = 0
+                for i, c in enumerate(word):
+                    count += char_count[i][ord(c) - ord('a')]
+                if count > best_count:
+                    best_choice = word
+                    best_count = count
+            
+            return best_choice
 
-            best_score = 0
-            best_word = ''
+        while True:
+            guess_word = best_guess()
+            score = master.guess(guess_word)
 
-            for w in words:
-                curr_score = 0
-                for i, c in enumerate(w):
-                    curr_score += counts[i][ord(c) - ord('a')]
-                if curr_score > best_score:
-                    best_score = curr_score
-                    best_word = w
-            return best_word
-
-
-        while words:
-            guess_word = getMostCommon()
-            match = master.guess(guess_word)
-            if match == 6:
-                return
-            words = removeInvalidWord()
+            if score == 6:
+                break
+            else:
+                words = filter(guess_word, score)
