@@ -1,8 +1,9 @@
 class TrieNode:
-    def __init__(self):
-        self.child = {}
+    def __init__(self, val = None):
+        self.val = val
         self.end = False
-
+        self.child = {}
+        
 class Trie:
     def __init__(self):
         self.root = TrieNode()
@@ -11,7 +12,7 @@ class Trie:
         curr = self.root
         for c in word:
             if c not in curr.child:
-                curr.child[c] = TrieNode()
+                curr.child[c] = TrieNode(c)
             curr = curr.child[c]
         curr.end = True
 
@@ -30,7 +31,6 @@ class Trie:
                 return False
             curr = curr.child[c]
         return True
-        
 
 
 # Your Trie object will be instantiated and called as such:
