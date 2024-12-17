@@ -3,16 +3,16 @@ class Solution:
         result = []
         nums.sort()
 
-        def backtrack(idx, subset):
-            result.append(subset.copy())
-            prev = -1000
-            for i in range(idx, len(nums)):
-                if nums[i] == prev:
-                    continue
-                subset.append(nums[i])
-                backtrack(i + 1, subset)
-                subset.pop()
-                prev = nums[i]
-        
+        def backtrack(idx, ss):
+            if idx == len(nums):
+                result.append(ss.copy())
+                return
+            ss.append(nums[idx])
+            backtrack(idx + 1, ss)
+            ss.pop()
+            while idx + 1 < len(nums) and nums[idx  + 1] == nums[idx]:
+                idx += 1
+            backtrack(idx + 1, ss)
+
         backtrack(0, [])
         return result
