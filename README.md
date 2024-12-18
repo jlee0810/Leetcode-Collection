@@ -519,6 +519,7 @@
 | [0205-isomorphic-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jlee0810/Leetcode-Collection/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jlee0810/Leetcode-Collection/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0266-palindrome-permutation) |
 | [0305-number-of-islands-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
@@ -773,6 +774,7 @@
 | [0214-shortest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/jlee0810/Leetcode-Collection/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0266-palindrome-permutation) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0306-additive-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0306-additive-number) |
@@ -882,6 +884,7 @@
 | [0179-largest-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jlee0810/Leetcode-Collection/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jlee0810/Leetcode-Collection/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/jlee0810/Leetcode-Collection/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/jlee0810/Leetcode-Collection/tree/master/0274-h-index) |
