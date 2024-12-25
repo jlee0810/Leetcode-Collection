@@ -40,6 +40,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jlee0810/Leetcode-Collection/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3486-count-the-number-of-good-nodes](https://github.com/jlee0810/Leetcode-Collection/tree/master/3486-count-the-number-of-good-nodes) |
 ## Depth-First Search
 |  |
@@ -93,6 +94,7 @@
 | [2035-count-sub-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/2035-count-sub-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3486-count-the-number-of-good-nodes](https://github.com/jlee0810/Leetcode-Collection/tree/master/3486-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
@@ -135,6 +137,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jlee0810/Leetcode-Collection/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -679,6 +682,7 @@
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2803-modify-graph-edge-weights](https://github.com/jlee0810/Leetcode-Collection/tree/master/2803-modify-graph-edge-weights) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jlee0810/Leetcode-Collection/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
