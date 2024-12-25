@@ -10,12 +10,11 @@ class Solution:
         def dfs(node):
             if not node:
                 return
-            exists_left = dfs(node.left)
-            exists_right = dfs(node.right)
+            left_contains = dfs(node.left)
+            right_contains = dfs(node.right)
 
-            if (exists_left and exists_right) or node == p or node == q:
+            if left_contains and right_contains or node == p or node == q:
                 return node
-            else:
-                return exists_left or exists_right
-        
+            return left_contains or right_contains
+
         return dfs(root)
