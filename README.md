@@ -355,6 +355,7 @@
 | [3113-beautiful-towers-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3114-beautiful-towers-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jlee0810/Leetcode-Collection/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3247-number-of-same-end-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/3247-number-of-same-end-substrings) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -390,6 +391,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3113-beautiful-towers-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3114-beautiful-towers-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jlee0810/Leetcode-Collection/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [3113-beautiful-towers-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3114-beautiful-towers-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jlee0810/Leetcode-Collection/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
 | ------- |
@@ -505,6 +508,7 @@
 | [2673-maximize-win-from-two-segments](https://github.com/jlee0810/Leetcode-Collection/tree/master/2673-maximize-win-from-two-segments) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3095-maximum-number-of-alloys](https://github.com/jlee0810/Leetcode-Collection/tree/master/3095-maximum-number-of-alloys) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jlee0810/Leetcode-Collection/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
 | ------- |
@@ -879,6 +883,7 @@
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/jlee0810/Leetcode-Collection/tree/master/2803-modify-graph-edge-weights) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jlee0810/Leetcode-Collection/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
 ## Sorting
 |  |
@@ -1278,6 +1283,7 @@
 | [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jlee0810/Leetcode-Collection/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1306,6 +1312,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jlee0810/Leetcode-Collection/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Bitmask
 |  |
 | ------- |
