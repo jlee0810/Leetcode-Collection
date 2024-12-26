@@ -325,6 +325,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/jlee0810/Leetcode-Collection/tree/master/2262-solving-questions-with-brainpower) |
@@ -846,6 +847,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jlee0810/Leetcode-Collection/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2232-adding-spaces-to-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1090,6 +1092,7 @@
 | [1923-sentence-similarity-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/1923-sentence-similarity-iii) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
@@ -1275,6 +1278,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jlee0810/Leetcode-Collection/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jlee0810/Leetcode-Collection/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/jlee0810/Leetcode-Collection/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2800-minimum-string-length-after-removing-substrings) |
