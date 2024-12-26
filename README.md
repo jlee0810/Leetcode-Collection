@@ -855,6 +855,7 @@
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jlee0810/Leetcode-Collection/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3247-number-of-same-end-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/3247-number-of-same-end-substrings) |
 | [3317-maximum-palindromes-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1098,6 +1099,7 @@
 | [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jlee0810/Leetcode-Collection/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Prefix Sum
 |  |
 | ------- |
