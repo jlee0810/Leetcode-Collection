@@ -236,6 +236,7 @@
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/jlee0810/Leetcode-Collection/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/jlee0810/Leetcode-Collection/tree/master/0554-brick-wall) |
@@ -638,6 +639,7 @@
 | [0435-non-overlapping-intervals](https://github.com/jlee0810/Leetcode-Collection/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/jlee0810/Leetcode-Collection/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/jlee0810/Leetcode-Collection/tree/master/0650-2-keys-keyboard) |
@@ -730,6 +732,7 @@
 | [0306-additive-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0320-generalized-abbreviation) |
 | [0473-matchsticks-to-square](https://github.com/jlee0810/Leetcode-Collection/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/jlee0810/Leetcode-Collection/tree/master/0813-all-paths-from-source-to-target) |
 | [0834-ambiguous-coordinates](https://github.com/jlee0810/Leetcode-Collection/tree/master/0834-ambiguous-coordinates) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
