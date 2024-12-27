@@ -366,6 +366,7 @@
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -668,6 +669,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/jlee0810/Leetcode-Collection/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Graph
 |  |
 | ------- |
