@@ -272,6 +272,7 @@
 | [1002-maximum-width-ramp](https://github.com/jlee0810/Leetcode-Collection/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
+| [1025-minimum-cost-for-tickets](https://github.com/jlee0810/Leetcode-Collection/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/jlee0810/Leetcode-Collection/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/jlee0810/Leetcode-Collection/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jlee0810/Leetcode-Collection/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -656,6 +657,7 @@
 | [0867-new-21-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/jlee0810/Leetcode-Collection/tree/master/0943-sum-of-subarray-minimums) |
+| [1025-minimum-cost-for-tickets](https://github.com/jlee0810/Leetcode-Collection/tree/master/1025-minimum-cost-for-tickets) |
 | [1081-video-stitching](https://github.com/jlee0810/Leetcode-Collection/tree/master/1081-video-stitching) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/jlee0810/Leetcode-Collection/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/1250-longest-common-subsequence) |
