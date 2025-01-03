@@ -374,6 +374,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/jlee0810/Leetcode-Collection/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
@@ -780,6 +781,7 @@
 | [0049-group-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jlee0810/Leetcode-Collection/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jlee0810/Leetcode-Collection/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
