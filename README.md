@@ -336,6 +336,7 @@
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
+| [2358-number-of-ways-to-split-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2358-number-of-ways-to-split-array) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/jlee0810/Leetcode-Collection/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jlee0810/Leetcode-Collection/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -1126,6 +1127,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jlee0810/Leetcode-Collection/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
+| [2358-number-of-ways-to-split-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2358-number-of-ways-to-split-array) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
