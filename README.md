@@ -581,6 +581,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jlee0810/Leetcode-Collection/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jlee0810/Leetcode-Collection/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -764,6 +765,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jlee0810/Leetcode-Collection/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
@@ -853,6 +855,7 @@
 | [1923-sentence-similarity-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jlee0810/Leetcode-Collection/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -1128,6 +1131,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/jlee0810/Leetcode-Collection/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jlee0810/Leetcode-Collection/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2358-number-of-ways-to-split-array) |
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
