@@ -453,6 +453,7 @@
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jlee0810/Leetcode-Collection/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/jlee0810/Leetcode-Collection/tree/master/2155-find-missing-observations) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/jlee0810/Leetcode-Collection/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/jlee0810/Leetcode-Collection/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
@@ -750,6 +751,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/jlee0810/Leetcode-Collection/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
 ## Bit Manipulation
 |  |
@@ -998,6 +1000,7 @@
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jlee0810/Leetcode-Collection/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2032-largest-odd-number-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/2039-sum-game) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2754-maximum-strength-of-a-group](https://github.com/jlee0810/Leetcode-Collection/tree/master/2754-maximum-strength-of-a-group) |
