@@ -333,6 +333,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/jlee0810/Leetcode-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jlee0810/Leetcode-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/jlee0810/Leetcode-Collection/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -865,6 +866,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/jlee0810/Leetcode-Collection/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2465-shifting-letters-ii) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -1327,6 +1329,7 @@
 | [0214-shortest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
