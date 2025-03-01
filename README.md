@@ -465,6 +465,7 @@
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/jlee0810/Leetcode-Collection/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -481,6 +482,7 @@
 | [2491-smallest-even-multiple](https://github.com/jlee0810/Leetcode-Collection/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jlee0810/Leetcode-Collection/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -886,6 +888,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jlee0810/Leetcode-Collection/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jlee0810/Leetcode-Collection/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/3474-better-compression-of-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1292,6 +1295,7 @@
 |  |
 | ------- |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1326,6 +1330,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Segment Tree
 |  |
 | ------- |
