@@ -299,6 +299,7 @@
 | [1449-print-words-vertically](https://github.com/jlee0810/Leetcode-Collection/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jlee0810/Leetcode-Collection/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/jlee0810/Leetcode-Collection/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jlee0810/Leetcode-Collection/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/jlee0810/Leetcode-Collection/tree/master/1694-make-sum-divisible-by-p) |
@@ -914,6 +915,7 @@
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/jlee0810/Leetcode-Collection/tree/master/1325-path-with-maximum-probability) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jlee0810/Leetcode-Collection/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/jlee0810/Leetcode-Collection/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/jlee0810/Leetcode-Collection/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/jlee0810/Leetcode-Collection/tree/master/1955-seat-reservation-manager) |
@@ -1264,6 +1266,7 @@
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/jlee0810/Leetcode-Collection/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jlee0810/Leetcode-Collection/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jlee0810/Leetcode-Collection/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jlee0810/Leetcode-Collection/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jlee0810/Leetcode-Collection/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -1297,6 +1300,7 @@
 | [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0732-my-calendar-iii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jlee0810/Leetcode-Collection/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3363-most-frequent-ids](https://github.com/jlee0810/Leetcode-Collection/tree/master/3363-most-frequent-ids) |
 ## Combinatorics
 |  |
@@ -1386,10 +1390,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jlee0810/Leetcode-Collection/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jlee0810/Leetcode-Collection/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting Sort
 |  |
 | ------- |
