@@ -1,56 +1,58 @@
 class Node:
-    def __init__(self, key = None, val = None):
-        self.key = key
-        self.val = val
+    def __init__(self):
+        self.val = None
         self.next = None
         self.prev = None
+        self.key = None
 
 class LRUCache:
 
     def __init__(self, capacity: int):
+        self.capacity = capacity
+        self.map = {}
         self.lru = Node()
         self.recent = Node()
         self.lru.next = self.recent
         self.recent.prev = self.lru
-        self.capacity = capacity
         self.size = 0
-        self.map = {}
 
-    def add_to_recent(self, node):
-        old_recent = self.recent.prev
-        old_recent.next = node
-        node.prev = old_recent
-        node.next = self.recent
-        self.recent.prev = node
-
-    def remove_node(self, node):
+    def remove(self, key):
+        node = self.map[key]
+        del self.map[key]
         node.prev.next = node.next
         node.next.prev = node.prev
+        self.size -= 1
+
+    def add(self, key, val):
+        new_node = Node()
+        new_node.val = val
+        new_node.key = key
+        self.map[key] = new_node
+        self.recent.prev.next = new_node
+        new_node.prev = self.recent.prev
+        new_node.next = self.recent
+        self.recent.prev = new_node
+        self.size += 1
 
     def get(self, key: int) -> int:
         if key in self.map:
-            node = self.map[key]
-            self.remove_node(node)
-            self.add_to_recent(node)
-            return node.val
+            val = self.map[key].val
+            self.remove(key)
+            self.add(key, val)
+            return val
         return -1
+
 
     def put(self, key: int, value: int) -> None:
         if key in self.map:
-            node = self.map[key]
-            self.remove_node(node)
-            node.val = value
-            self.add_to_recent(node)
+            self.remove(key)
+            self.add(key, value)
         else:
-            if self.capacity == self.size:
-                lru_node = self.lru.next
-                self.remove_node(lru_node)
-                del self.map[lru_node.key]
-                self.size -= 1
-            new = Node(key, value)
-            self.map[key] = new
-            self.add_to_recent(new)
-            self.size += 1
+            if self.size == self.capacity:
+                self.remove(self.lru.next.key)
+            self.add(key, value)
+
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
