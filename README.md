@@ -346,6 +346,7 @@
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/jlee0810/Leetcode-Collection/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2448-count-number-of-bad-pairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jlee0810/Leetcode-Collection/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -458,6 +459,7 @@
 | [2279-maximum-split-of-positive-even-integers](https://github.com/jlee0810/Leetcode-Collection/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/jlee0810/Leetcode-Collection/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/jlee0810/Leetcode-Collection/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2448-count-number-of-bad-pairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/jlee0810/Leetcode-Collection/tree/master/2491-smallest-even-multiple) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
@@ -601,6 +603,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/jlee0810/Leetcode-Collection/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/jlee0810/Leetcode-Collection/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2448-count-number-of-bad-pairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/2448-count-number-of-bad-pairs) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [2721-sum-of-distances](https://github.com/jlee0810/Leetcode-Collection/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/2755-extra-characters-in-a-string) |
@@ -1041,6 +1044,7 @@
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jlee0810/Leetcode-Collection/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/jlee0810/Leetcode-Collection/tree/master/2427-first-letter-to-appear-twice) |
+| [2448-count-number-of-bad-pairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2605-count-anagrams](https://github.com/jlee0810/Leetcode-Collection/tree/master/2605-count-anagrams) |
 | [3247-number-of-same-end-substrings](https://github.com/jlee0810/Leetcode-Collection/tree/master/3247-number-of-same-end-substrings) |
