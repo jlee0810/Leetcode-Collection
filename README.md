@@ -550,6 +550,7 @@
 | [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/jlee0810/Leetcode-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/jlee0810/Leetcode-Collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/0560-subarray-sum-equals-k) |
@@ -821,6 +822,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/jlee0810/Leetcode-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/jlee0810/Leetcode-Collection/tree/master/0472-concatenated-words) |
 | [0564-find-the-closest-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
@@ -1251,6 +1253,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/jlee0810/Leetcode-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0867-new-21-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0867-new-21-game) |
