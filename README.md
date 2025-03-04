@@ -255,6 +255,7 @@
 | [0739-daily-temperatures](https://github.com/jlee0810/Leetcode-Collection/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/jlee0810/Leetcode-Collection/tree/master/0769-largest-plus-sign) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jlee0810/Leetcode-Collection/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/jlee0810/Leetcode-Collection/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/jlee0810/Leetcode-Collection/tree/master/0833-bus-routes) |
@@ -393,6 +394,7 @@
 | [0735-asteroid-collision](https://github.com/jlee0810/Leetcode-Collection/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jlee0810/Leetcode-Collection/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jlee0810/Leetcode-Collection/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/jlee0810/Leetcode-Collection/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/jlee0810/Leetcode-Collection/tree/master/0983-validate-stack-sequences) |
@@ -413,6 +415,7 @@
 | [0456-132-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jlee0810/Leetcode-Collection/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jlee0810/Leetcode-Collection/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/jlee0810/Leetcode-Collection/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/jlee0810/Leetcode-Collection/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -953,6 +956,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jlee0810/Leetcode-Collection/tree/master/0780-max-chunks-to-make-sorted) |
 | [0843-binary-trees-with-factors](https://github.com/jlee0810/Leetcode-Collection/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/jlee0810/Leetcode-Collection/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
@@ -1004,6 +1008,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/jlee0810/Leetcode-Collection/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/jlee0810/Leetcode-Collection/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jlee0810/Leetcode-Collection/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/jlee0810/Leetcode-Collection/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jlee0810/Leetcode-Collection/tree/master/1049-minimum-domino-rotations-for-equal-row) |
