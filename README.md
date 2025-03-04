@@ -281,6 +281,7 @@
 | [1081-video-stitching](https://github.com/jlee0810/Leetcode-Collection/tree/master/1081-video-stitching) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/jlee0810/Leetcode-Collection/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/jlee0810/Leetcode-Collection/tree/master/1127-last-stone-weight) |
 | [1165-meeting-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/1165-meeting-scheduler) |
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
@@ -581,6 +582,7 @@
 | [1006-vowel-spellchecker](https://github.com/jlee0810/Leetcode-Collection/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/jlee0810/Leetcode-Collection/tree/master/1023-time-based-key-value-store) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1190-smallest-common-region](https://github.com/jlee0810/Leetcode-Collection/tree/master/1190-smallest-common-region) |
 | [1249-snapshot-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1256-rank-transform-of-an-array) |
@@ -961,6 +963,7 @@
 | [0876-hand-of-straights](https://github.com/jlee0810/Leetcode-Collection/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/jlee0810/Leetcode-Collection/tree/master/1014-k-closest-points-to-origin) |
 | [1083-two-sum-less-than-k](https://github.com/jlee0810/Leetcode-Collection/tree/master/1083-two-sum-less-than-k) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1165-meeting-scheduler](https://github.com/jlee0810/Leetcode-Collection/tree/master/1165-meeting-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/1256-rank-transform-of-an-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/jlee0810/Leetcode-Collection/tree/master/1352-maximum-profit-in-job-scheduling) |
