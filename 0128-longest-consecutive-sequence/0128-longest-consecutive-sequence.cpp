@@ -2,18 +2,13 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         int result = 0;
+        set<int> s(nums.begin(), nums.end());
 
-        set<int> s_nums;
-
-        for (auto num : nums) {
-            s_nums.insert(num);
-        }
-
-        for (auto num : s_nums) {
-            if (s_nums.find(num - 1) == s_nums.end()) {
+        for (auto num : s) {
+            if (s.find(num - 1) == s.end()) {
                 int consec = 1;
                 int curr = num;
-                while (s_nums.find(curr + 1) != s_nums.end()) {
+                while (s.find(curr + 1) != s.end()) {
                     consec += 1;
                     curr += 1;
                 }
