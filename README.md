@@ -812,6 +812,7 @@
 | [0076-minimum-window-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jlee0810/Leetcode-Collection/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
@@ -1131,6 +1132,7 @@
 | [0031-next-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jlee0810/Leetcode-Collection/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/jlee0810/Leetcode-Collection/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/jlee0810/Leetcode-Collection/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0160-intersection-of-two-linked-lists) |
