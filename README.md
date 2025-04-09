@@ -201,6 +201,7 @@
 | [0119-pascals-triangle-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jlee0810/Leetcode-Collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/jlee0810/Leetcode-Collection/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0152-maximum-product-subarray) |
@@ -542,6 +543,7 @@
 | [0076-minimum-window-substring](https://github.com/jlee0810/Leetcode-Collection/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/jlee0810/Leetcode-Collection/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
@@ -729,6 +731,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0305-number-of-islands-ii) |
