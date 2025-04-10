@@ -1,30 +1,31 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        vector<set<char>> row(9);
-        vector<set<char>> col(9);
-        vector<set<char>> ssquare(9);
+        vector<set<int>> rows(9);
+        vector<set<int>> cols(9);
+        vector<set<int>> squares(9);
 
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                if (isdigit(board[i][j])) {
-                    int square_num = (i / 3) * 3 + (j / 3);
+                if (board[i][j] != '.') {
+                    if (rows[i].find(board[i][j]) != rows[i].end()) {
+                        return false;
+                    }
+                    if (cols[j].find(board[i][j]) != cols[j].end()) {
+                        return false;
+                    }
+                    if (squares[(i / 3) * 3 + (j / 3)].find(board[i][j]) !=
+                        squares[(i / 3) * 3 + (j / 3)].end()) {
+                        return false;
+                    }
 
-                    if (row[i].find(board[i][j]) != row[i].end()) {
-                        return false;
-                    }
-                    if (col[j].find(board[i][j]) != col[j].end()) {
-                        return false;
-                    }
-                    if (ssquare[square_num].find(board[i][j]) != ssquare[square_num].end()) {
-                        return false;
-                    }
-                    row[i].insert(board[i][j]);
-                    col[j].insert(board[i][j]);
-                    ssquare[square_num].insert(board[i][j]);
+                    rows[i].insert(board[i][j]);
+                    cols[j].insert(board[i][j]);
+                    squares[(i / 3) * 3 + (j / 3)].insert(board[i][j]);
                 }
             }
         }
+
         return true;
     }
 };
