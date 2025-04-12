@@ -1,46 +1,39 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        flow_grid = [
-            [set() for _ in range(len(heights[0]))] for _ in range(len(heights))
-        ]
+        ROWS, COLS = len(heights), len(heights[0])
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        pac = [[False] * COLS for _ in range(ROWS)]
+        atl = [[False] * COLS for _ in range(ROWS)]
 
-        def bfs(i, j, ispacific):
-            nonlocal flow_grid
-
-            q = deque()
-            q.append((i, j))
-            visited = set()
-            visited.add((i, j))
-
+        def bfs(source, ocean):
+            q = deque(source)
             while q:
-                curr_r, curr_c = q.popleft()
-                if ispacific:
-                    flow_grid[curr_r][curr_c].add("p")
-                else:
-                    flow_grid[curr_r][curr_c].add("a")
-
-                for dr, dc in [[-1, 0], [1, 0], [0, 1], [0, -1]]:
-                    nr, nc = curr_r + dr, curr_c + dc
-                    if (
-                        0 <= nr < len(heights)
-                        and 0 <= nc < len(heights[0])
-                        and (nr, nc) not in visited
-                        and heights[nr][nc] >= heights[curr_r][curr_c]
+                r, c = q.popleft()
+                ocean[r][c] = True
+                for dr, dc in directions:
+                    nr, nc = r + dr, c + dc
+                    if (0 <= nr < ROWS and 0 <= nc < COLS and 
+                        not ocean[nr][nc] and 
+                        heights[nr][nc] >= heights[r][c]
                     ):
-                        visited.add((nr, nc))
                         q.append((nr, nc))
 
-        for col in range(len(heights[0])):
-            bfs(0, col, True)
-            bfs(len(heights) - 1, col, False)
-        for row in range(len(heights)):
-            bfs(row, 0, True)
-            bfs(row, len(heights[0]) - 1, False)
+        pacific = []
+        atlantic = []
+        for c in range(COLS):
+            pacific.append((0, c))
+            atlantic.append((ROWS - 1, c))
 
-        result = []
-        for r in range(len(flow_grid)):
-            for c in range(len(flow_grid[0])):
-                if len(flow_grid[r][c]) == 2:
-                    result.append([r, c])
-        
-        return result
+        for r in range(ROWS):
+            pacific.append((r, 0))
+            atlantic.append((r, COLS - 1))
+            
+        bfs(pacific, pac)
+        bfs(atlantic, atl)
+
+        res = []
+        for r in range(ROWS):
+            for c in range(COLS):
+                if pac[r][c] and atl[r][c]:
+                    res.append([r, c])
+        return res
