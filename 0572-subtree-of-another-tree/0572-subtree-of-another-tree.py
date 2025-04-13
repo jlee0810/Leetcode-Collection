@@ -11,25 +11,17 @@ class Solution:
                 return True
             if not p or not q:
                 return False
-
             left_same = isSameTree(p.left, q.left)
             right_same = isSameTree(p.right, q.right)
 
-            if left_same and right_same and p.val == q.val:
-                return True
-            else:
-                return False
+            return left_same and right_same and p.val == q.val
 
-        if not root and not subRoot:
+        if isSameTree(root, subRoot):
             return True
-        if not root or not subRoot:
+        if not root and subRoot:
             return False
 
-        left_sub = self.isSubtree(root.left, subRoot)
-        right_sub = self.isSubtree(root.right, subRoot)
+        left = self.isSubtree(root.left, subRoot)
+        right = self.isSubtree(root.right, subRoot)
 
-        if left_sub or right_sub or isSameTree(root, subRoot):
-            return True
-        else:
-            return False
-    
+        return left or right
