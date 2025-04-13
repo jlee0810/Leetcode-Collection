@@ -1,16 +1,16 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        turtle = nums[0]
-        hare = nums[nums[0]]
+        slow = nums[0]
+        fast = nums[nums[0]]
 
-        while turtle != hare:
-            turtle = nums[turtle]
-            hare = nums[nums[hare]]
-        
-        slow = 0
-
-        while slow != turtle:
+        while slow != fast:
             slow = nums[slow]
-            turtle = nums[turtle]
+            fast = nums[nums[fast]]
 
-        return slow
+        dup_idx = 0
+
+        while dup_idx != slow:
+            dup_idx = nums[dup_idx]
+            slow = nums[slow]
+
+        return dup_idx
