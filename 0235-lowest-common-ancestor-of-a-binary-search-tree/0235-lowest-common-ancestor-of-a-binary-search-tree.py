@@ -5,16 +5,20 @@
 #         self.left = None
 #         self.right = None
 
+
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+    def lowestCommonAncestor(
+        self, root: "TreeNode", p: "TreeNode", q: "TreeNode"
+    ) -> "TreeNode":
         def dfs(node):
             if not node:
-                return
-            left_contains = dfs(node.left)
-            right_contains = dfs(node.right)
-
-            if left_contains and right_contains or node == p or node == q:
                 return node
-            return left_contains or right_contains
+            left = dfs(node.left)
+            right = dfs(node.right)
+
+            if (left and right) or node == p or node == q:
+                return node
+            else:
+                return left or right
 
         return dfs(root)
