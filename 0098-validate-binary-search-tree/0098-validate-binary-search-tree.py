@@ -9,11 +9,12 @@ class Solution:
         def dfs(node, min_val, max_val):
             if not node:
                 return True
-            left_valid = dfs(node.left, min_val, node.val)
-            right_valid = dfs(node.right, node.val, max_val)
+            if min_val < node.val < max_val:
+                left = dfs(node.left, min_val, node.val)
+                right = dfs(node.right, node.val, max_val)
 
-            if left_valid and right_valid and min_val < node.val < max_val:
-                return True
-            return False
-            
-        return dfs(root, float('-inf'), float('inf'))
+                return left and right
+            else:
+                return False
+
+        return dfs(root, float("-inf"), float("inf"))
