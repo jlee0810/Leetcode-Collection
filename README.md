@@ -198,6 +198,7 @@
 | [0075-sort-colors](https://github.com/jlee0810/Leetcode-Collection/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jlee0810/Leetcode-Collection/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jlee0810/Leetcode-Collection/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jlee0810/Leetcode-Collection/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -388,6 +389,7 @@
 | [0020-valid-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jlee0810/Leetcode-Collection/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jlee0810/Leetcode-Collection/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/jlee0810/Leetcode-Collection/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jlee0810/Leetcode-Collection/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jlee0810/Leetcode-Collection/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/jlee0810/Leetcode-Collection/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0503-next-greater-element-ii) |
