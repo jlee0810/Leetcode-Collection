@@ -12,9 +12,7 @@ class Solution:
             if min_val < node.val < max_val:
                 left = dfs(node.left, min_val, node.val)
                 right = dfs(node.right, node.val, max_val)
-
                 return left and right
-            else:
-                return False
+            return False
 
         return dfs(root, float("-inf"), float("inf"))
