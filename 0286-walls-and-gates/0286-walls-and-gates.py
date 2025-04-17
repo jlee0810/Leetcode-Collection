@@ -3,23 +3,21 @@ class Solution:
         """
         Do not return anything, modify rooms in-place instead.
         """
+        if not rooms:
+            return
 
-        def bfs(r, c):
-            q = deque()
-            q.append((r, c, 0))
-            visited = set()
-            visited.add((r, c))
+        rows, cols = len(rooms), len(rooms[0])
+        q = deque()
 
-            while q:
-                curr_r, curr_c, curr_dist = q.popleft()
-                for dr, dc in [[-1, 0], [1, 0], [0, -1], [0, 1]]:
-                    nr, nc = curr_r + dr, curr_c + dc
-                    if 0 <= nr < len(rooms) and 0 <= nc < len(rooms[0]) and (nr, nc) not in visited and rooms[nr][nc] != -1 and rooms[nr][nc] != 0:
-                        q.append((nr, nc, curr_dist + 1))
-                        visited.add((nr, nc))
-                        rooms[nr][nc] = min(rooms[nr][nc], curr_dist + 1)
+        for r in range(rows):
+            for c in range(cols):
+                if rooms[r][c] == 0:
+                    q.append((r, c))
 
-        for i in range(len(rooms)):
-            for j in range(len(rooms[0])):
-                if rooms[i][j] == 0:
-                    bfs(i, j)
+        while q:
+            r, c = q.popleft()
+            for dr, dc in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+                nr, nc = r + dr, c + dc
+                if 0 <= nr < rows and 0 <= nc < cols and rooms[nr][nc] == 2**31 - 1:
+                    rooms[nr][nc] = rooms[r][c] + 1
+                    q.append((nr, nc))
