@@ -5,31 +5,27 @@ class Solution:
 
         def find(node):
             if node != parent[node]:
-                return find(parent[node])
-            else:
-                return node
+                node = find(parent[node])
+            return node
+        
+        def union(n1, n2):
+            p1 = find(n1)
+            p2 = find(n2)
 
-        def union(node1, node2):
-            parent1 = find(node1)
-            parent2 = find(node2)
-
-            if parent1 == parent2:
+            if p1 == p2:
                 return True
-
+            if rank[p1] > rank[p2]:
+                parent[p2] = parent[p1]
+                rank[p1] += rank[p2]
             else:
-                if rank[parent1] >= rank[parent2]:
-                    parent[parent2] = parent[parent1]
-                    rank[parent1] += rank[parent2]
-                else:
-                    parent[parent1] = parent[parent2]
-                    rank[parent2] += rank[parent1]
-
+                parent[p1] = parent[p2]
+                rank[p2] += rank[p1]
             return False
-
+        
         for n1, n2 in edges:
             if union(n1, n2):
                 return False
-
+                
         s_parent = set()
         for i in range(n):
             s_parent.add(find(i))
