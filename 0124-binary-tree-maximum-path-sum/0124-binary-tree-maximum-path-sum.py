@@ -10,16 +10,25 @@ class Solution:
 
         def dfs(node):
             nonlocal max_path
+
             if not node:
                 return 0
+
             left = dfs(node.left)
             right = dfs(node.right)
 
             curr_path_max = max(left, right, 0) + node.val
-            max_path = max(max_path, left + right + node.val, left + node.val, right + node.val, node.val)
+
+            max_path = max(
+                max_path,
+                left + right + node.val,
+                left + node.val,
+                right + node.val,
+                node.val,
+            )
 
             return curr_path_max
-        
+
         dfs(root)
 
         return max_path
