@@ -1,23 +1,24 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         adj_list = defaultdict(list)
-        for u, v, w in times:
-            adj_list[u].append((v, w))
-        
-        time = {i : float('inf') for i in range(1, n + 1)}
-        pq = [(0, k)]
-        time[k] = 0
+
+        for n1, n2, cost in times:
+            adj_list[n1].append((n2, cost))
+
+        cost = [float("inf") for _ in range(n + 1)]
+
+        pq = []
+        heappush(pq, (0, k))
 
         while pq:
-            curr_time, curr_node = heappop(pq)
+            curr_cost, curr_node = heappop(pq)
+            if curr_cost < cost[curr_node]:
+                cost[curr_node] = curr_cost
 
-            if curr_time > time[curr_node]:
-                continue
-            for neighbor, time_cost in adj_list[curr_node]:
-                new_cost = curr_time + time_cost
-                if new_cost < time[neighbor]:
-                    time[neighbor] = new_cost
-                    heappush(pq, (new_cost, neighbor))
+            for nei, nei_cost in adj_list[curr_node]:
+                if curr_cost + nei_cost < cost[nei]:
+                    heappush(pq, (curr_cost + nei_cost, nei))
 
-        max_time = max(time.values())
-        return max_time if max_time < float('inf') else -1
+        if max(cost[1:]) == float('inf'):
+            return -1
+        return max(cost[1:])
