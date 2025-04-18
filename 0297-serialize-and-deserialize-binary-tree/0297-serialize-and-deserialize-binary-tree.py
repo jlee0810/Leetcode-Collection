@@ -5,64 +5,66 @@
 #         self.left = None
 #         self.right = None
 
+
 class Codec:
 
     def serialize(self, root):
         """Encodes a tree to a single string.
-        
+
         :type root: TreeNode
         :rtype: str
         """
         if not root:
-            return ''
+            return ""
 
         encode = []
-        
+
         def bfs(root):
             q = deque([root])
-            
+
             while q:
                 node = q.popleft()
                 if node is None:
-                    encode.append('null')
+                    encode.append("null")
                 else:
                     encode.append(str(node.val))
-                    q.extend([node.left, node.right])
+                    q.append(node.left)
+                    q.append(node.right)
 
         bfs(root)
-        print(encode)
-        return ','.join(encode)
-        
+        return ",".join(encode)
+
     def deserialize(self, data):
         """Decodes your encoded data to tree.
-        
+
         :type data: str
         :rtype: TreeNode
         """
-        if not data or len(data) == 0 or data == 'null':
+        if data is None or len(data) == 0:
             return None
-        
-        nodes = data.split(',')
+
+        nodes = data.split(",")
         root = TreeNode(int(nodes[0]))
-        queue = deque([root])
-         
+        q = deque([root])
+
         i = 1
-         
-        while queue and i < len(nodes):
-            node = queue.popleft()
-            
-            if nodes[i] != 'null':
+        while q:
+            node = q.popleft()
+
+            if nodes[i] != "null":
                 left_node = TreeNode(int(nodes[i]))
                 node.left = left_node
-                queue.append(left_node)
+                q.append(left_node)
+
             i += 1
-        
-            if i < len(nodes) and nodes[i] != 'null':
+
+            if i < len(nodes) and nodes[i] != "null":
                 right_node = TreeNode(int(nodes[i]))
                 node.right = right_node
-                queue.append(right_node)
+                q.append(right_node)
             i += 1
-        return root 
+        return root
+
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
