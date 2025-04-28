@@ -236,6 +236,7 @@
 | [0322-coin-change](https://github.com/jlee0810/Leetcode-Collection/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jlee0810/Leetcode-Collection/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
+| [0353-design-snake-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0353-design-snake-game) |
 | [0370-range-addition](https://github.com/jlee0810/Leetcode-Collection/tree/master/0370-range-addition) |
 | [0376-wiggle-subsequence](https://github.com/jlee0810/Leetcode-Collection/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
@@ -569,6 +570,7 @@
 | [0266-palindrome-permutation](https://github.com/jlee0810/Leetcode-Collection/tree/master/0266-palindrome-permutation) |
 | [0305-number-of-islands-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jlee0810/Leetcode-Collection/tree/master/0347-top-k-frequent-elements) |
+| [0353-design-snake-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0353-design-snake-game) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jlee0810/Leetcode-Collection/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jlee0810/Leetcode-Collection/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1089,6 +1091,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jlee0810/Leetcode-Collection/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/jlee0810/Leetcode-Collection/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0353-design-snake-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jlee0810/Leetcode-Collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0588-design-in-memory-file-system](https://github.com/jlee0810/Leetcode-Collection/tree/master/0588-design-in-memory-file-system) |
 | [0729-my-calendar-i](https://github.com/jlee0810/Leetcode-Collection/tree/master/0729-my-calendar-i) |
@@ -1353,6 +1356,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
+| [0353-design-snake-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0353-design-snake-game) |
 | [0412-fizz-buzz](https://github.com/jlee0810/Leetcode-Collection/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jlee0810/Leetcode-Collection/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1423,6 +1427,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0239-sliding-window-maximum) |
+| [0353-design-snake-game](https://github.com/jlee0810/Leetcode-Collection/tree/master/0353-design-snake-game) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jlee0810/Leetcode-Collection/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
