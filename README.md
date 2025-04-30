@@ -214,6 +214,7 @@
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/jlee0810/Leetcode-Collection/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/jlee0810/Leetcode-Collection/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/jlee0810/Leetcode-Collection/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jlee0810/Leetcode-Collection/tree/master/0200-number-of-islands) |
@@ -514,6 +515,7 @@
 | [0098-validate-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jlee0810/Leetcode-Collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/jlee0810/Leetcode-Collection/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jlee0810/Leetcode-Collection/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jlee0810/Leetcode-Collection/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
