@@ -2,17 +2,19 @@ class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         cache = {}
 
-        def backtrack(idx, current_sum):
-            if (idx, current_sum) in cache:
-                return cache[(idx, current_sum)]
+        def dp(i, curr_sum):
+            if (i, curr_sum) in cache:
+                return cache[(i, curr_sum)]
+            if i == len(nums) and curr_sum == target:
+                return 1
+            if i == len(nums):
+                return 0
 
-            if idx == len(nums):
-                return 1 if current_sum == target else 0
+            add_way = dp(i + 1, curr_sum + nums[i])
+            subtract_way = dp(i + 1, curr_sum - nums[i])
 
-            add = backtrack(idx + 1, current_sum + nums[idx])
-            subtract = backtrack(idx + 1, current_sum - nums[idx])
-            
-            cache[(idx, current_sum)] = add + subtract
-            return cache[(idx, current_sum)]
-        
-        return backtrack(0, 0)
+            cache[(i, curr_sum)] = add_way + subtract_way
+
+            return add_way + subtract_way
+
+        return dp(0, 0)
