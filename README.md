@@ -449,6 +449,7 @@
 | [0067-add-binary](https://github.com/jlee0810/Leetcode-Collection/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jlee0810/Leetcode-Collection/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jlee0810/Leetcode-Collection/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jlee0810/Leetcode-Collection/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0263-ugly-number) |
@@ -565,6 +566,7 @@
 | [0141-linked-list-cycle](https://github.com/jlee0810/Leetcode-Collection/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jlee0810/Leetcode-Collection/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jlee0810/Leetcode-Collection/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jlee0810/Leetcode-Collection/tree/master/0217-contains-duplicate) |
@@ -835,6 +837,7 @@
 | [0127-word-ladder](https://github.com/jlee0810/Leetcode-Collection/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jlee0810/Leetcode-Collection/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/jlee0810/Leetcode-Collection/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jlee0810/Leetcode-Collection/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/jlee0810/Leetcode-Collection/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/jlee0810/Leetcode-Collection/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jlee0810/Leetcode-Collection/tree/master/0208-implement-trie-prefix-tree) |
